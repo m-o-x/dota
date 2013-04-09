@@ -6268,7 +6268,7 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"DOTA_Tooltip_modifier_spirit_breaker_nether_strike_Description"				"Invulnerable"
 
 		"DOTA_Tooltip_modifier_alchemist_acid_spray"						"Ядовитые брызги"
-		"DOTA_Tooltip_modifier_alchemist_acid_spray_Description"			"Наносят периодический урон и уменьшают броню на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
+		"DOTA_Tooltip_modifier_alchemist_acid_spray_Description"			"Наносbт периодический урон и уменьшает броню на %dMODIFIER_PROPERTY_PHYSICAL_ARMOR_BONUS%."
 		"DOTA_Tooltip_modifier_alchemist_chemical_rage"						"Химическая ярость"
 		"DOTA_Tooltip_modifier_alchemist_chemical_rage_Description"			"Снижает интервал между атаками на %fMODIFIER_PROPERTY_BASE_ATTACK_TIME_CONSTANT%, увеличивает здоровье на %dMODIFIER_PROPERTY_HEALTH_BONUS%, увеличивает реген здоровья на %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT%, увеличивает реген маны на %fMODIFIER_PROPERTY_BASE_MANA_REGEN%, увеличивает скорость передвижения на %dMODIFIER_PROPERTY_MOVESPEED_BONUS_CONSTANT%."
 
@@ -7974,7 +7974,7 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"game_mode_8"												"РЕЖИМ НАОБОРОТ"
 		"game_mode_9"												"ГРИВЛЯНИЕ"
 		"game_mode_10"												"ОБУЧЕНИЕ"
-		"game_mode_11"												"ТОЛЬКО СЕРЕДИНА"
+		"game_mode_11"												"ТОЛЬКО ЦЕНТР"
 		"game_mode_12"												"РЕДКИЕ ГЕРОИ"
 		"game_mode_13"												"ГЕРОИ ДЛЯ НОВИЧКОВ"
 
