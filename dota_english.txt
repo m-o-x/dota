@@ -1287,7 +1287,7 @@
 		"DOTA_Item_Build_Luxury"				"По ситуации"		
 		"dota_item_build_title_default"			"ПРЕДЛАГАЕМЫЕ ПРЕДМЕТЫ"
 		"dota_item_build_default"			"Стандартная заготовка"
-		"dota_item_build_save_failed"		"Не удалось сохраненить"
+		"dota_item_build_save_failed"		"Не удалось сохраннить"
 		"dota_item_build_save_failed_filename"	"Неверное название"
 		"dota_item_build_save_success"		"Заготовка сохранена"
 		
@@ -9606,14 +9606,14 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"DOTA_SpectatorDropdown_KDA"				"Убийств/смертей/помощей"
 		"DOTA_SpectatorDropdown_Lasthits_Denies"	"Добиваний / не отдано"
 		"DOTA_SpectatorDropdown_Level"				"Уровень героя"
-		"DOTA_SpectatorDropdown_XP_Per_Min"			"Опыт в минуту"
+		"DOTA_SpectatorDropdown_XP_Per_Min"			"Опыта в минуту"
 		"DOTA_SpectatorDropdown_Gold"				"Текущее золото"		
 		"DOTA_SpectatorDropdown_TotalGold"			"Заработанное золото"		
 		"DOTA_SpectatorDropdown_Gold_Per_Min"		"Золота в минуту"			
 		"DOTA_SpectatorDropdown_Sort"				"Поменять сортировку"
 		"DOTA_SpectatorDropdown_Close"				"Очистить категорию"
 		"DOTA_SpectatorDropdown_Buyback"			"Возможность выкупа"
-		"DOTA_SpectatorDropdown_NetWorth"			"Общая стоимость"
+		"DOTA_SpectatorDropdown_NetWorth"			"Общая ценность"
 
 		//ECONOMY UI TEXT
 		"econ_new_items_title"				"У ВАС НОВЫЕ ПРЕДМЕТЫ"
