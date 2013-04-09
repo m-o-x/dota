@@ -7778,7 +7778,7 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"UI_Ambient_Occlusion"											"Улучшенные тени"
 		"UI_Ambient_Creatures"											"Фауна"
 		"UI_Textures"													"Текстуры"
-		"UI_Overlays"													"Наложения"
+		"UI_Overlays"													"Таблички"
 		"UI_Antialiasing"												"Сглаживание"
 		"UI_Color_Blind"												"Цветовая слепота"
 		"UI_Video_Test"													"Проверка видео"
