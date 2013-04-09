@@ -7240,8 +7240,8 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"DOTA_ToolTip_Ability_AutoCast" "автоматическая"
 		"DOTA_ToolTip_Ability_Aura" "аура"
 		"DOTA_ToolTip_Ability_Toggle" "переключаемая"
-		"DOTA_ToolTip_Ability_Target" "напр. на существо"
-		"DOTA_ToolTip_Ability_Point" "напр. на точку"
+		"DOTA_ToolTip_Ability_Target" "направленная на существо"
+		"DOTA_ToolTip_Ability_Point" "направленная на точку"
 		
 		"DOTA_ToolTip_Targeting"	"Действует на"
 		"DOTA_ToolTip_Targeting_Enemy" "врагов"
