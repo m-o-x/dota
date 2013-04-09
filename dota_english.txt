@@ -8983,7 +8983,7 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"DOTA_Shop_Item_Error_Cant_Afford"		"Недостаточно золота"
 		"DOTA_Shop_Item_Already_Owned"			"Уже куплено"
 
-		"DOTA_Shop_Item_Complete"		"Цена покупки: %s1"
+		"DOTA_Shop_Item_Complete"		"Не хватает золота: %s1"
 		
 		"DOTA_Shop_Tip_Mouse_Buttons"		"Welcome to the Item Shop\n\nLEFT CLICK on an item icon to select it.\nRight CLICK on an item to purchase it."
 		"DOTA_Shop_Tip_Search"				"Search\n\nThe search box below can help you find items by name."
