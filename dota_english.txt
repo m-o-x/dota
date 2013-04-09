@@ -1,6 +1,6 @@
 ﻿"lang" 
 { 
-	"Language" "English" 
+	"Language" "Russian" 
 	"Tokens" 
 	{ 
 		"DOTA_AttackMove"		"Атаковать"
