@@ -1,0 +1,29 @@
+﻿Ability Can't Target Heroes
+Search all teams that have participated in a league or tournament.
+The Teams feature...
+TOURNAMENT GAME
+OR, FILTER BY
+Live games are sorted by average skill, highest to lowest.
+You can use the Invite Team To Party (Пригласить команду)...
+- Start a game with bots.
+Please select one or more matchmaking regions.
+Your perfomance (эффективность) bar shows how well...
+Delete this item? ...
+You are currently receiving...
+ended
+Combat Log
+
+First Blood — первая кровь
+Double Kill — двойное убийство
+Triple Kill — тройное убийство
+Ultra Kill — массовое убийство
+Rampage — бойня
+
+Killing Spree — буйствует
+Dominating — господствует
+Mega Kill — смертоносен
+Unstoppable — неудержим
+Wicked Sick — свирепствует
+Monster Kill — зверствует
+Godlike — богоподобен
+Beyond Godlike — превзошел богов
