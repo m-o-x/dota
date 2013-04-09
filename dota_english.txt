@@ -301,7 +301,7 @@
 		"DOTA_Chat_RoshanbooCandy"		"Roshan wants candy from %s1!"
 		"DOTA_Chat_SuperCreepsGood"		"Все казармы сил тьмы пали. Теперь у сил света мегакрипы!"
 		"DOTA_Chat_SuperCreepsBad"		"Все казармы сил света пали. Теперь у сил тьмы мегакрипы!"
-		"DOTA_Chat_ItemPurchase"		"%s1 купил «%s2»!"
+		"DOTA_Chat_ItemPurchase"		"%s1 купил: %s2!"
 		"DOTA_Chat_Connect"				"%s1 подключился к игре."
 		"DOTA_Chat_Disconnect"			"%s1 отключился от игры."
 		"DOTA_Chat_DisconnectWaitForReconnect"	"%s1 отключился от игры. Пожалуйста, дождитесь его повторного подключения."
@@ -444,8 +444,8 @@
 		"DOTA_Tutorial_Experience_Yes"		"Played them a lot"
 		"DOTA_Tutorial_Experience_No"		"Haven't played many"
 
-		"DOTA_Tutorial_Quests"				"QUESTS"
-		"DOTA_Tutorial_TaskCompleted"		"Completed!"
+		"DOTA_Tutorial_Quests"				"ЗАДАНИЯ"
+		"DOTA_Tutorial_TaskCompleted"		"Выполнено!"
 
 		"DOTA_Tutorial_M1_IntroRazor"		"Я несу смерть и разрушение!"
 		"DOTA_Tutorial_M1_IntroRazorWin"	"Ха-ха-ха-а-а..."
