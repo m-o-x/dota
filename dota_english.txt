@@ -5443,7 +5443,7 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"DOTA_Tooltip_Ability_item_stout_shield"			"Крепкий щит"
 		"DOTA_Tooltip_Ability_item_talisman_of_evasion"		"Талисман уклонения"
 		"DOTA_Tooltip_Ability_item_tango"				"Танго"
-		"DOTA_Tooltip_Ability_item_tpscroll"				"Свиток возвращения"
+		"DOTA_Tooltip_Ability_item_tpscroll"				"Свиток перемещения"
 		"DOTA_Tooltip_Ability_item_tranquil_boots"			"Ботинки спокойствия"
 		"DOTA_Tooltip_Ability_item_recipe_tranquil_boots"	"Рецепт ботинок спокойствия"
 		"DOTA_Tooltip_Ability_item_travel_boots"			"Сапоги путешественника"
