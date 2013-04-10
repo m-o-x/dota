@@ -1411,15 +1411,15 @@
 		"DOTA_Tooltip_ability_courier_return_to_base_Description"						"Возвращает курьера на базу"
 		"DOTA_Tooltip_ability_courier_transfer_items"									"Принести предметы"
 		"DOTA_Tooltip_ability_courier_transfer_items_Description"						"Приносит предметы герою"
-		"DOTA_Tooltip_ability_courier_go_to_secretshop"									"К Потайной лавке"
-		"DOTA_Tooltip_ability_courier_go_to_secretshop_Description"						"Отправляет курьера к Потайной лавке вашей команды"
+		"DOTA_Tooltip_ability_courier_go_to_secretshop"									"К потайной лавке"
+		"DOTA_Tooltip_ability_courier_go_to_secretshop_Description"						"Отправляет курьера к потайной лавке вашей команды"
 		"DOTA_Tooltip_ability_courier_return_stash_items"								"Вернуть предметы"
 		"DOTA_Tooltip_ability_courier_return_stash_items_Description"					"Возвращает предметы в тайник"
 		"DOTA_Tooltip_ability_courier_shield"											"Защита"
 		"DOTA_Tooltip_ability_courier_shield_Description"								"Окружает курьера защитным щитом"
 		"DOTA_Tooltip_ability_courier_burst"											"Ускорение"
 		"DOTA_Tooltip_ability_courier_burst_Description"								"Увеличивает скорость курьера"
-		"DOTA_Tooltip_ability_courier_take_stash_items"									"Взять предметы"
+		"DOTA_Tooltip_ability_courier_take_stash_items"									"Забрать предметы"
 		"DOTA_Tooltip_ability_courier_take_stash_items_Description"						"Забирает предметы из тайника"
 		
 		//NECRONOMICON
@@ -6578,7 +6578,7 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"DOTA_Tooltip_modifier_item_diffusal_blade_slow"				"Клинок рассеивания - очищение"
 		"DOTA_Tooltip_modifier_item_diffusal_blade_slow_Description"	"Movement speed reduced by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%"
 		
-		"DOTA_Tooltip_modifier_	_regeneration"					"Бутыль: восстановление"
+		"DOTA_Tooltip_modifier_bottle_regeneration"					"Бутыль: восстановление"
 		"DOTA_Tooltip_modifier_bottle_regeneration_Description"		"Восстанавливает %fMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% единиц здоровья и %fMODIFIER_PROPERTY_MANA_REGEN_CONSTANT% единицы маны в секунду"
 		
 		"DOTA_Tooltip_modifier_item_ethereal_blade_ethereal"				"Призрачный заряд"
