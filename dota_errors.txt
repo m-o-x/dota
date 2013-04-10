@@ -1,18 +1,11 @@
-﻿Ability Can't Target Heroes
-Search all teams that have participated in a league or tournament.
+﻿Search all teams that have participated in a league or tournament.
 The Teams feature...
-TOURNAMENT GAME
-OR, FILTER BY
 Live games are sorted by average skill, highest to lowest.
 You can use the Invite Team To Party (Пригласить команду)...
 - Start a game with bots.
 Please select one or more matchmaking regions.
 Your perfomance (эффективность) bar shows how well...
-Delete this item? ...
 You are currently receiving...
-ended
-Combat Log
-Новенькое
 
 
 First Blood — первая кровь
