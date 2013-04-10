@@ -5639,7 +5639,7 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"established"				"Основана"
 		"show_player_activity"		"АКТИВНОСТЬ ИГРОКОВ"
 
-		"DOTA_UI_guide_select_title"	"ВЫБОР ЗАГОТОВКИ — s1"
+		"DOTA_UI_guide_select_title"	"ВЫБОР ЗАГОТОВКИ — %s1"
 		"DOTA_UI_guide_select"			"Изменить заготовку"
 		"DOTA_UI_default_build"			"Начальная заготовка"
 		"DOTA_UI_default_build_description"	"This build contains basic item recommendations for %s1.\n\nTo try out other builds for this hero, click the arrow above."
@@ -8109,21 +8109,21 @@ Upon his steed Armageddon he rides, wading into battle with maniacal frenzy, dra
 		"dota_item_panel_back_short"		"< BACK"
 		
 		// To create a new key ( like $health ) just add the entry here
-		"dota_ability_variable_health"			"здоровья"					// $health
-		"dota_ability_variable_mana"			"маны"						// $mana
-		"dota_ability_variable_armor"			"брони"						// $armor
-		"dota_ability_variable_damage"			"урона"					// $damage
-		"dota_ability_variable_str"				"силы"					// $str
-		"dota_ability_variable_int"				"интеллекта"					// $int
-		"dota_ability_variable_agi"				"ловкости"					// $agi
-		"dota_ability_variable_all"				"всех характеристик"			// $all
-		"dota_ability_variable_attack"			"скорости атаки"				// $attack
-		"dota_ability_variable_hp_regen"		"восстановления здоровья"			// $hp_regen
-		"dota_ability_variable_mana_regen"		"восстановления маны"			// $mana_regen
-		"dota_ability_variable_move_speed"		"скорости движения"			// $move_speed	
-		"dota_ability_variable_evasion"			"уклонения"					// $evasion
-		"dota_ability_variable_spell_resist"	"сопротивления магии"			// $spell_resist
-		"dota_ability_variable_selected_attrib"	"выбранной характеристики"		// $selected_attribute
+		"dota_ability_variable_health"			"к здоровью"					// $health +250 к здоровью (Вангард)
+		"dota_ability_variable_mana"			"к мане"						// $mana +250 к мане (Сапоги чародея)
+		"dota_ability_variable_armor"			"к броне"						// $armor +1 к броне (Кольцо Василиоса)
+		"dota_ability_variable_damage"			"к урону"					// $damage +6 к урону (Кольцо Василиоса)
+		"dota_ability_variable_str"				"к силе"					// $str +10 к силе (Посох черного короля)
+		"dota_ability_variable_int"				"к интеллекту"					// $int +10 к интелекту (Меченосная кольчуга)
+		"dota_ability_variable_agi"				"к ловкости"					// $agi +3 к ловкости (Туфли ловкости)
+		"dota_ability_variable_all"				"ко всем характеристикам"			// $all +1 ко всем характеристикам (Ветвь железного дерева)
+		"dota_ability_variable_attack"			"к скорости атаки"				// $attack +10 к скорости атаки (Палица)
+		"dota_ability_variable_hp_regen"		"к восстановлению здоровья"			// $hp_regen +5 к восстановлению здоровья (Кольцо здоровья)
+		"dota_ability_variable_mana_regen"		"к восстановлению маны"			// $mana_regen +125% к восстановлению маны (Амулет стойкости)
+		"dota_ability_variable_move_speed"		"к скорости движения"			// $move_speed	+50 к скорости движения (Ботинки скорости)
+		"dota_ability_variable_evasion"			"к вероятности уклонения"					// $evasion +35% к вероятности уклонению (Бабочка)
+		"dota_ability_variable_spell_resist"	"к сопротивлению магии"			// $spell_resist +35% к сопротивлению магии (Накидка отторжения)
+		"dota_ability_variable_selected_attrib"	"к выбранной характеристике"		// $selected_attribute +8 к выбранной характеристике (Боевые ботинки)
 		
 		"DOTA_Tooltip_ability_item_aegis_Description"							"Passive: Перерождение - Brings you to life with full health and mana %reincarnate_time% seconds after you die, at the location where you died. Перерождение must be used within 6 minutes or Aegis of the Immortal disappears."
 		"DOTA_Tooltip_ability_item_aegis_Lore"									"The Immortal was said to own a shield that protected him from death itself."
