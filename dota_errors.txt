@@ -1,12 +1,6 @@
-﻿Search all teams that have participated in a league or tournament.
-The Teams feature...
-Live games are sorted by average skill, highest to lowest.
-You can use the Invite Team To Party (Пригласить команду)...
-- Start a game with bots.
-Please select one or more matchmaking regions.
-Your perfomance (эффективность) bar shows how well...
-You are currently receiving...
-
+﻿You can use the Invite Team To Party (Пригласить команду)...
+PLAY
+PICK
 
 First Blood — первая кровь
 Double Kill — двойное убийство
@@ -22,3 +16,15 @@ Wicked Sick — свирепствует
 Monster Kill — зверствует
 Godlike — богоподобен
 Beyond Godlike — превзошел богов
+
+Carry — 
+Disabler — 
+Lane Support — 
+Initiator — 
+Jungler — 
+Support — 
+Durable — 
+Nuker — 
+Pusher — 
+Escape — 
+Ganker — 

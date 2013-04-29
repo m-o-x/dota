@@ -543,7 +543,7 @@
 		"DOTA_Tutorial_M2_UpgradeBoots"		"Just like that, you've crafted yourself some <font color='#006697' face='Dota Hypatia Bold'><b>Arcane Boots</b></font> by combining the two items!  While not always the perfect item for every hero, right now, these look good on you.\n\nArcane Boots are an active item, try it out!  Hit <font color='#006697' face='Dota Hypatia Bold'><b>%!item_arcane_boots%</b></font> and you'll restore some of your mana."
 		"DOTA_Tutorial_M2_UpgradeComplete"	"We should press on and find more places to earn experience."
 		"DOTA_Tutorial_M2_LevelGraveyard"	"Looks creepy in there."
-		"DOTA_Tutorial_M2_PullBegin"		"Spotted some here.\n\nTry shooting them <font color='#006697' face='Dota Hypatia Bold'><b>once</b></font> to get their attention and <font color='#006697' face='Dota Hypatia Bold'><b>pull</b></font> them towards your creeps by running back here.  Allow your creeps to help take them out!"
+		"DOTA_Tutorial_M2_PullBegin"		"Spotted more here!\n\nTry shooting them <font color='#006697' face='Dota Hypatia Bold'><b>once</b></font> to get their attention and <font color='#006697' face='Dota Hypatia Bold'><b>pull</b></font> them towards your creeps by running back here.  Allow your creeps to help take them out!"
 		"DOTA_Tutorial_M2_RewardFree"		"We're free!"
 		"DOTA_Tutorial_M2_Reward"			"Thanks Sniper!  They didn't take our gold, no doubt more concerned with lunch.  Here you go.  Take it as your reward."
 		"DOTA_Tutorial_M2_CourierBuyItem1"	"With that reward gold we should buy you some new items.  Could upgrade your ring to a <font color='#006697' face='Dota Hypatia Bold'><b>Ring of Basilius!</b></font>\n\nOpen the shop and purchase the <font color='#006697' face='Dota Hypatia Bold'><b>Sage's Mask</b></font>."
@@ -554,11 +554,13 @@
 		"DOTA_Tutorial_M2_LevelUlt"			"Well done!  Level up and learn <font color='#006697' face='Dota Hypatia Bold'><b>Assassinate</b></font> when you have a chance."
 		"DOTA_Tutorial_M2_KillTide"			"Hopefully Tidehunter is still lurking about.  Head to where we last spotted him perhaps we can still get the jump on him!\n\nLet's go!"
 		"DOTA_Tutorial_M2_KillTideHow"		"Took the long route?\n\nTime to get to work.  Use <font color='#006697' face='Dota Hypatia Bold'><b>Assassinate</b></font> by pressing <font color='#006697' face='Dota Hypatia Bold'><b>%dota_ability_execute 3%</b></font> and then click on <font color='#006697' face='Dota Hypatia Bold'><b>Tidehunter</b></font> across the bridge."
-		"DOTA_Tutorial_M2_KillTideComplete"	"Boom!  Nicely done, he won't be bothering us for a while."
-		"DOTA_Tutorial_M2_TeleportTower"	"Uh oh, the far tower is under attack!  To reach the tower quickly you will need to purchase a Town Portal Scroll from the shop which will us to teleport directly to the location to help defend!"
-		"DOTA_Tutorial_M2_TeleportUse"		"The <font color='#006697' face='Dota Hypatia Bold'><b>Town Portal Scroll</b></font> is a channeling spell and requires standing in place during the entire cast duration.\n\nUse the <font color='#006697' face='Dota Hypatia Bold'><b>Town Portal Scroll</b></font> by hitting <font color='#006697' face='Dota Hypatia Bold'><b>%!item_tpscroll%</b></font> and then <font color='#006697' face='Dota Hypatia Bold'><b>left-click</b></font> the <font color='#006697' face='Dota Hypatia Bold'><b>south tower</b></font> on the map overview."
+		"DOTA_Tutorial_M2_KillTideComplete"	"Pow!  Nicely done, he won't be bothering us for a while."
+		
+		"DOTA_Tutorial_M2_TeleportBuy"		"We're going to need a <font color='#006697' face='Dota Hypatia Bold'><b>Town Portal Scroll</b></font> to cross the divide.  Buy a <font color='#006697' face='Dota Hypatia Bold'><b>Town Portal Scroll</b></font>."
+		"DOTA_Tutorial_M2_TeleportCourier"	"Now have the courier bring it to you using the Deliver Items button."
+		"DOTA_Tutorial_M2_TeleportChannel"	"With the courier on its way, there's something you need to know about teleporting.  Teleport is a <font color='#006697' face='Dota Hypatia Bold'><b>channeled</b></font> spell so you need to stand still while using it.  If you move, it will cancel the cast."
+		"DOTA_Tutorial_M2_TeleportUse"		"Use the <font color='#006697' face='Dota Hypatia Bold'><b>Town Portal Scroll</b></font> by hitting <font color='#006697' face='Dota Hypatia Bold'><b>%!item_tpscroll%</b></font> and then <font color='#006697' face='Dota Hypatia Bold'><b>left-click</b></font> the <font color='#006697' face='Dota Hypatia Bold'><b>north most tower</b></font> on the minimap."
 		"DOTA_Tutorial_M2_TeleportCenter"	"You can re-center the view on yourself by hitting <font color='#006697' face='Dota Hypatia Bold'><b>%+dota_camera_follow%</b></font> twice or <font color='#006697' face='Dota Hypatia Bold'><b>left-clicking</b></font> the map overview.\n\nI better get a move on so I can meet you there!"
-		"DOTA_Tutorial_M2_BuyBelt"			"We've earned a tidy sum of gold holding off that siege.  It's probably time to upgrade those ratty boots of yours.  Purchase the Belt of Strength from the Shop."
 		
 		"DOTA_Quest_MoveTo"					"Head For the Gate"
 		"DOTA_Quest_FindKeeper"				"Find <font face='Dota Hypatia Bold'><b>Keeper of the Light</b></font>"
@@ -5221,7 +5223,7 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_Tooltip_ability_skywrath_mage_ancient_seal_resist_debuff"		"%MAGIC RESISTANCE REDUCTION:"
 		"DOTA_Tooltip_ability_skywrath_mage_ancient_seal_seal_duration"		"DURATION:"
 		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare"					"Mystic Flare"
-		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Description"		"Skywrath uses his ultimate magical ability to conjure a precise and violent mystical field that lays waste to his adversaries. Deals massive damage distributed evenly among any heroes in the area over 2 seconds."
+		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Description"		"Skywrath uses his ultimate magical ability to conjure a precise and violent mystical field that lays waste to his adversaries. Deals massive damage distributed evenly among any Heroes in the area over 2 seconds."
 		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Lore"				""
 		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare_Note0"				"Mystic Flare only affects Heroes; it does not damage illusions or creep heroes."
 		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare_radius"			"RADIUS:"
@@ -5229,7 +5231,7 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_Tooltip_ability_skywrath_mage_mystic_flare_damage"			"DAMAGE:"
 		"npc_dota_hero_skywrath_mage_bio"									"A highly placed mage in the court of the Ghastly Eyrie, Dragonus lives a troubled existence. Sworn by birth to protect whoever sits within the Nest of Thorns, he hates the current Skywrath queen with all his soul. As a youth, high-born, he was a friend and companion to the eldest Skywrath princess, Shendelzare, first in line for the Nest. He had loved her warmly and unshakably, but as his studies took hold, his mind turned to arcane learning and the mastery of Skywrath sorcery.
 		Obsessed with matters aetherial, he missed the mundane signs of courtly treachery that hinted at a plot against Shendelzare, and lost his chance to foil it. When the court was shaken by a swift and violent coup, he emerged from his studies to discover his oldest and dearest friend had been lost to him. The Nest of Thorns now belonged to Shendelzare's ruthless younger sister, and Dragonus could do nothing. The magic of the Skywrath Mage serves only the sworn protector of the Skywrath scion, so to act against the Nest would render him helpless. He clings to his post, believing it to be the best hope of one day restoring his true love to her rightful place. Meanwhile, his secret is known only to the goddess Scree'auk, whose magic it was transformed Shendelzare from a crippled physical creature into an embodiment of pure vengeful energy.
-		While he dreams of restoring his beloved queen to the Ghastly Eyrie, he dreams even more desperately of restoring Shendelzare herself to a fully healed physical form. The duplicity of his role at court tortures him, for he is a noble and good-hearted creature; but the worst torture of all is imaging the hatred that Vengeful Spirit must hold in her heart for him."
+		While he dreams of restoring his beloved queen to the Ghastly Eyrie, he dreams even more desperately of restoring Shendelzare herself to a fully healed physical form. The duplicity of his role at court tortures him, for he is a noble and good-hearted creature; but the worst torture of all is imagining the hatred that Vengeful Spirit must hold in her heart for him."
 		//ABADDON
 		"DOTA_Tooltip_ability_abaddon_death_coil"					"Death Coil"
 		"DOTA_Tooltip_ability_abaddon_death_coil_Description"		"Abaddon releases a coil of death that can damage an enemy unit or heal a friendly unit at the cost of some of Abaddon's health."
@@ -5727,6 +5729,7 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"dota_region_australia"			"Australia"
 		"dota_region_korea"			"South Korea"
 		"dota_region_southafrica"		"South Africa"
+		"dota_region_pw"				"Perfect World (China)"
 		"dota_region_automatic_desc"	"Choose the server that is best for my region."
 		"dota_region_select_desc"		"Let me choose servers from any region."
 		"Average_wait_time"				"Average wait time: %s1"
@@ -5743,6 +5746,7 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"dota_matchgroup_au"			"Australia"
 		"dota_matchgroup_icn"			"South Korea"
 		"dota_matchgroup_cpt"			"South Africa"
+		"dota_matchgroup_pw"			"Perfect World (China)"
 		"DOTA_Lobby_MM_pref"			"ENTER MATCHMAKING PREFERENCES"
 		"UI_region_settings_command"								"SELECT MATCHMAKING REGIONS"
 		"dota_mm_select_region_hint"	"Please select one or more matchmaking regions.\nSelecting more regions will reduce wait times."
@@ -6497,7 +6501,7 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_Tooltip_modifier_slark_essence_shift_debuff_counter"			"Essence Shift"
 		"DOTA_Tooltip_modifier_slark_essence_shift_debuff_counter_Description"	"Losing %dMODIFIER_PROPERTY_TOOLTIP% of each attribute."
 		"DOTA_Tooltip_modifier_slark_shadow_dance_passive_regen"				"Shadow Dance Regen"
-		"DOTA_Tooltip_modifier_slark_shadow_dance_passive_regen_Description"	"Gaining %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% bonus movement speed and regerating %dMODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE%%% of max HP per second."
+		"DOTA_Tooltip_modifier_slark_shadow_dance_passive_regen_Description"	"Gaining %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% bonus movement speed and regenerating %dMODIFIER_PROPERTY_HEALTH_REGEN_PERCENTAGE%%% of max HP per second."
 		"DOTA_Tooltip_modifier_slark_shadow_dance"							"Shadow Dance"
 		"DOTA_Tooltip_modifier_slark_shadow_dance_Description"				"Invisible within your cloud of smoke."
 
@@ -6575,6 +6579,15 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_Tooltip_modifier_elder_titan_natural_order_Description"	"Reducing magic resistance and base armor by 80%%."
 		"DOTA_Tooltip_modifier_elder_titan_earth_splitter"				"Earth Splitter"
 		"DOTA_Tooltip_modifier_elder_titan_earth_splitter_Description"	"Slowed by %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%%."
+
+		"DOTA_Tooltip_modifier_legion_commander_overwhelming_odds"				"Overwhelming Odds"
+		"DOTA_Tooltip_modifier_legion_commander_overwhelming_odds_Description"	"Gaining %dMODIFIER_PROPERTY_MOVESPEED_BONUS_PERCENTAGE%%% movement speed."
+		"DOTA_Tooltip_modifier_legion_commander_press_the_attack"				"Press the Attack"
+		"DOTA_Tooltip_modifier_legion_commander_press_the_attack_Description"	"Gaining %dMODIFIER_PROPERTY_ATTACKSPEED_BONUS_CONSTANT_SECONDARY% attack speed and %dMODIFIER_PROPERTY_HEALTH_REGEN_CONSTANT% HP regen."
+		"DOTA_Tooltip_modifier_legion_commander_duel"							"Duel"
+		"DOTA_Tooltip_modifier_legion_commander_duel_Description"				"Dueling until opponent dies or the effect ends."
+		"DOTA_Tooltip_modifier_legion_commander_duel_damage_boost"				"Duel Victories"
+		"DOTA_Tooltip_modifier_legion_commander_duel_damage_boost_Description"	"Number of opponents defeated in Legion Commander's Duel.  Each win grants 10 bonus damage permanently."
 
 
 		"DOTA_Tooltip_modifier_item_armlet_unholy_strength"				"Unholy Strength"
@@ -7444,6 +7457,7 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"commend_submitted"										"Commendation submitted:  Thank you for helping to improve the Dota 2 community."
 		"report_submitted"										"Report submitted:  Thank you for helping to improve the Dota 2 community."
 		"duplicate_report"										"You have already submitted feedback for this player."
+		"no_reports_remaining"									"You have already used your allotted number of submissions for this week."
 		"DOTA_ReportReminder"									"Don't forget to report players for bad conduct, or commend them for being fun to play with. You can do this by clicking on their name in the scoreboard at any time."
 		"notify_successful_report_title"            "THANK YOU"
 		"notify_successful_report"            "We’ve recently taken action against one or more players you’ve previously reported for bad conduct. Thanks for your help in making the Dota 2 community a friendlier place."
@@ -9225,6 +9239,9 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"schedule_confirm_delete"			"Really delete this scheduled time block?"
 		"schedule_delete_failed"			"Error: Failed to delete scheduled time block"
 		"schedule_edit_title"				"SCHEDULED TIME"
+		"invalid_team_hint"					"Unknown Team"
+		"visit_team_profile"				"Team Profile"
+		"schedule_game_id"					"Game ID: %s1"		
 		"sched_start"						"Start:"
 		"sched_end"							"End:"
 		"sched_comment"						"Comment:"
@@ -9312,7 +9329,7 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_RP_BOTPRACTICE"				"Playing Against Bots"
 											
 
-		"DOTA_VoiceTextBanned_Reports"		"No one hears you. Your account has been flagged as disruptive and your communication privileges temporarily revoked."
+		"DOTA_VoiceTextBanned_Reports"		"No one hears you. Your account has been flagged as disruptive and your communication privileges temporarily revoked. Time remaining: %s1 hours"
 		"DOTA_SpectatorsAreWatchingYourGame" "There are %s1 spectators watching this game right now."
 		
 		// Voice Credits
@@ -9375,9 +9392,10 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_Workshop_TypeTitle"			"ITEM TYPE:"
 		"DOTA_Workshop_FileTitle"			"SUBMISSION FILE:"
 		"DOTA_Workshop_DescTitle"			"DESCRIPTION:"
-		"DOTA_Workshop_TestTitle"			"TEST YOUR MODEL"
+		"DOTA_Workshop_TestTitle"			"IMPORT MODEL"
 		"DOTA_Workshop_SubmitTitle"			"SUBMIT TO THE WORKSHOP"
 		"DOTA_Workshop_Test"				"TEST"
+		"DOTA_Workshop_ImportHudSkin"		"IMPORT HUD SKIN"
 		"DOTA_Workshop_AddWearables"		"Additional Items"
 		"DOTA_Workshop_TestExplanation"		"Wearables need to be tested to ensure they're within budget. Select the compiled model and then hit the Test button. If you're submitting something other than a wearable, you can skip this step. Submissions of untested wearable models won't be considered for addition into Dota 2."
 		"DOTA_Workshop_NoFile"				"< NO FILE SELECTED >"
@@ -9394,6 +9412,7 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_Workshop_File_Wearable"		"Wearable Model (.mdl files)"
 		"DOTA_Workshop_File_PortraitInfo"	"Portrait Layout File (.pts files)"
 		"DOTA_Workshop_File_Marketing"		"Marketing Images (.psd files)"
+		"DOTA_Workshop_File_HudSkin"		"HUD Skin Images (.png files)"
 		"DOTA_Workshop_HeroSelect"			"Select Hero"
 		"DOTA_Workshop_NoHeroSelected"		"No hero selected"
 		"DOTA_Workshop_SlotSelect"			"Select slot"
@@ -9408,6 +9427,8 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_Workshop_SubmissionType_Other_Desc"		"A submission that doesn't fit in any of the other submission types."
 		"DOTA_Workshop_SubmissionType_Ability"			"ABILITY"
 		"DOTA_Workshop_SubmissionType_Ability_Desc"		"One or more models with the animations required to replace models associated with a specific Hero's spells or abilities."
+		"DOTA_Workshop_SubmissionType_HudSkin"			"HUD SKIN"
+		"DOTA_Workshop_SubmissionType_HudSkin_Desc"		"A set of images designed to replace the in-game HUD."
 		"DOTA_Workshop_RetrievingInfo"		"RETRIEVING INFORMATION"
 		"DOTA_Workshop_InternalSave_Ok"		"SUCCESS"
 		"DOTA_Workshop_InternalErr_Dir"		"%s1 isn't under the dota/models directory."
@@ -9444,6 +9465,11 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_ItemTest_Marketing_Title"		"MARKETING"
 		"DOTA_ItemTest_Marketing_Desc"		"A .PSD file containing a selection of marketing images to use when promoting your submission. Click the Marketing Help link to see the requirements, and suggested format, of your .PSD file."
 		"DOTA_ItemTest_Marketing_Help"		"Marketing Help"
+		"DOTA_ItemTest_Images_Title"		"IMAGES"
+
+		"DOTA_ItemTest_HudSkin_Intro"		"HUD Skins are a set of images that combine to replace the in-game HUD."
+		"DOTA_ItemTest_HudSkin_Desc"		"A set of .PNG files that were produced by the HUD Skin Photoshop export tool. Browse and select any of the .PNG files, and we'll find the rest. They must be in the directory structure created by the export tool."
+		"DOTA_ItemTest_HudSkin_Help"		"HUD Skin Help"
 
 		"DOTA_ItemTest_Attachments_Desc"	"Attachment points are points on the model that the game can use to position certain effects. Each attachment point has both a position and an angle, which it derives from a bone in your model. For each required attachment point, specify the bone name. Once we've built your imported model, the preview will show you the attachment point so you can verify its position."
 		"DOTA_ItemTest_Attachments_UIBlock"	"Attachments %s1"
@@ -9477,6 +9503,12 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_ItemTest_ImportError"			"Texture File Error!"
 		"DOTA_ItemTest_Error_TextureNameA"	"Cannot recognise the chosen .TGA file name. Textures must end with one of the following suffixes: _color, _normal, _mask1, _mask2"
 		"DOTA_ItemTest_Error_TextureNameB"	"Cannot find a matching .TGA file with the following suffix:\n %s1"
+
+		"DOTA_ItemTest_RequiredFileError"	"Required File Not Found!"
+		"DOTA_ItemTest_RequiredFile_Name"	"Cannot find a required file with the following name:\n %s1"
+
+		"DOTA_ItemTest_ZipError"			"File Error!"
+		"DOTA_ItemTest_ZipError_Desc"		"Failed to create temporary submission zip file at: %s1"
 
 		"DOTA_ItemTest_Error"				"Import Error"
 		"DOTA_ItemTest_Error_Unskinned"		"Couldn't find any bones in the wearable that correspond to bones in the hero model. Wearable items must be skinned to the hero's bones to be submitted."
@@ -11139,5 +11171,11 @@ No sooner had the defeated regained consciousness than the cries for double-or-n
 		"DOTA_AntiAddiction_Reminder_Warning1"	"You've been online for %s1"
 		"DOTA_AntiAddiction_Reminder_Warning2"	"You've been online for %s1"
 		"DOTA_AntiAddiction_Reminder_Warning3"	"You've been online for a while!"
+
+ 		"DOTA_AntiAddiction_Initial_With_ID_18Plus"		"Last time online: %s1\nLast IP Address: %s2"
+ 		"DOTA_AntiAddiction_Initial_With_ID_Under_18"	"You are under 18. The anti addiction system is in effect.\nLast time online: %s1\nLast IP Address: %s2"
+ 		"DOTA_AntiAddiction_Initial_No_ID"				"Your account is not registered.\nLast time online: %s1\nLast IP Address: %s2"
+		"DOTA_AntiAddiction_Initial_DateFormat"			"%s1Y%s2M%s3D  %s4:%s5:%s6"
+
 	}
 }
