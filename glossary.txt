@@ -1,0 +1,71 @@
+﻿You can use the Invite Team To Party (Пригласить команду)...
+Do you wish to kick...
+New team member will appear...
+PLAY
+PICK
+Пожалуйста, дождитесь его.
+Drag items to these slots to feature them in your profile
+
+First Blood — первая кровь
+Double Kill — двойное убийство
+Triple Kill — тройное убийство
+Ultra Kill — массовое убийство
+Rampage — бойня
+
+Killing Spree — буйствует
+Dominating — господствует
+Mega Kill — смертоносен
+Unstoppable — неудержим
+Wicked Sick — свирепствует
+Monster Kill — зверствует
+Godlike — богоподобен
+Beyond Godlike — превзошел богов
+
+Carry — керри
+Disabler — дисейблер?
+Lane Support — нянька
+Initiator — инициатор
+Jungler — лесник
+Support — сапорт?
+Durable — танк
+Nuker — нюкер?
+Pusher — пушер?
+Escape — живучий
+Ganker — ганкер
+Solo Mid — 
+Offlaner — 
+
+Common — обычного типа
+Uncommon — необычного типа
+Rare — редкого типа
+Mythical — мифического типа
+Legendary — легендарного типа
+Ancient — древнего типа
+Immortal — бессмертного типа
+Arcana — чародейского типа
+
+Base — 
+Standard — 
+Vintage — старой закалки
+Community — члена сообщества
+Valve — сотрудника Вальв
+Selfmade — ручной сборки
+Customized — 
+Genuine — высшей пробы
+Unusual — необычного вида
+Strange — со странностями
+Completed — в цельном виде
+Haunted — проклятого вида (с проклятьем)
+Tournament — с соревнования
+
+Set — комплект
+Bundle, Pack — набор
+Deep Ones — Глубоководные, Глубинные
+
+Эффект от нескольких * не складывается.
+Не сочетается с другими источниками *.
+Не сочетается с другими предметами, увеличивающими *.
+* является уникальным модификатором атаки и не сочетается с другими уникальными модификаторами атаки.
+Сочетается со способностями, увеличивающими *.
+Нельзя применять на союзниках.
+Мгновенно убивает призванных существ.
