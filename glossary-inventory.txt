@@ -1,0 +1,180 @@
+﻿— BASICS
+
+— Consumables —
+
+Clarity = Зелье ясности
+Tango = Танго
+Healing Salve = Лечебный бальзам
+Smoke of Deceit = Дым обмана
+Town Portal Scroll = Свиток перемещения
+Dust of Appearance = Порошок прозрения
+Animal Courier = Курьер
+Sentry Ward = Невидимый маячок
+Observer Ward = Всевидящий маячок
+Flying Courier = Летающий курьер
+Bottle = Бутылка
+
+— Attributes —
+
+Iron Branch = Ветвь железного дерева
+Circlet = Диадема
+Ultimate Orb = Шар величия
+
+Gauntlers of Strength = Рукавицы силы
+Belt of Strength = Пояс силы
+Ogre Club = Топор огра
+
+Slippers of Agility = Тапки ловкости
+Boots of Elvenskin = Эльфийские сапожки
+Blade of Alacrity = Клинок резвости
+
+Mantle of Intelligence = Накидка познания
+Robe of the Magi = Одеяние мага
+Staff of Wizardry = Волшебный посох
+
+— Armaments —
+
+Ring of Protection = Кольцо защиты
+Quelling Blade = 
+Stout Shield = 
+Chainmail = Кольчуга
+Helm of Iron Will = Шлем железной воли
+Broadsword = Палаш
+Claymore = Клеймор
+Javelin = Копье
+Platemail = Латы
+
+Blades of Attack = Боевые лезвия
+Quarterstaff = Палица
+Mithril Hammer = Мифриловый молот
+
+— Arcane —
+
+Magic Stick = Магический посох
+Sage's Mask = Маска мудреца
+Ring of Regen = Кольцо регенерации
+Boots of Speed = Сапоги скорости
+Gloves of Haste = Перчатки скорости
+Cloak = Накидка
+Gem of True Sight = Самоцвет прозрения
+Morbid Mask = Маска ужаса
+Ghost Scepter = Призрачный скипетр
+Talisman of Evasion = Талисман уклонения
+Blink Dagger = 
+
+— UPGRADES
+
+— Common —
+
+Wraith Band = Венец призрака
+Null Talisman = Талисман пустоты
+Bracer = Наручи
+Magic Wand = Магический жезл
+Poor Man's Shiled = Щит бедняка
+Soul Ring = Кольцо души
+Phase Boots = Сапоги-скороходы
+Power Treads = 
+Oblivion Staff = Посох забвения
+Perseverance = Стойкость
+Hand of Midas = Рука Мидаса
+Boots of Travel = Сапоги странника
+
+— Support —
+
+Ring of Basilius = Кольцо Василиоса
+Headdress = Боевой наряд
+Buckler = Круглый щит
+Urn of Shadows = Урна теней
+Ring of Aquila = Кольцо аквилы
+Tranquil Boots = 
+Medallion of Courage = Медальон отваги
+Arcane Boots = Сапоги чародея
+Drum of Endurance = 
+Vladmir's Offering = 
+Mekansm = Мекансм
+Pipe of Insight = 
+
+— Caster —
+
+Force Staff = Посох силы
+Necronomicon = Некрономикон
+Eul's Scepter of Divinity = 
+Dagon = Дагон
+Veil of Discord = 
+Rod of Atos = Жезл Атоса
+Aghanim's Scepter = Скипетр Аганима
+Orchid Malevolence = 
+Refresher Orb = 
+Scythe of Vyse = 
+
+— Weapons —
+
+Crystalys = Кристалис
+Armlet of Mordiggian = Нарукавник
+Skull Basher = Костолом
+Shadow Blade = Теневой клинок
+Battle Fury = 
+Ethereal Blade = 
+Radiance = 
+Monkey King Bar = Посох короля обезьян
+Daedalus = Дедал
+Butterfly = Бабочка
+Divine Rapier = 
+Abyssal Blade = Клинок бездны
+
+— Armor —
+
+Hood of Defiance = 
+Blade Mail = 
+Vanguard = Вангард
+Soul Booster = 
+Black King Bar = Посох Черного короля
+Shiva's Guard = 
+Manta Style = 
+Bloodstone = Камень крови
+Linken's Sphere = Сфера Линкена
+Assault Cuirass = Штурмовая кираса
+Heart of Tarrasque = Сердце тарраски
+
+— Artifacts —
+
+Helm of the Dominator = 
+Mask of Madness = Маска безумия
+Sange = 
+Yasha = Яша
+Maelstrom = 
+Diffusal Blade = 
+Heaven's Halberd = Небесная алебарда
+Desolator = Истребитель
+Sange and Yasha = Сандж и Яша
+Mjollnir = Мьёлльнир
+Eye of Skadi = Глаз Скади
+Satanic = Сатаник
+
+— SECRET SHOP
+
+Orb of Venom = Сфера яда
+Ring of Health = Кольцо здоровья
+Void Stone = 
+Energy Booster =
+Vitality Booster = 
+Point Booster = 
+Hyperstone = 
+Demon Edge = Демонический клинок
+Mystic Staff = Мистический посох
+Reaver = Налетчик
+Eaglesong = 
+Sacred Relic = Древний реликт
+
+— ROSHAN DROP
+
+Aegis of the Immortal = Эгида бессмертия
+Cheese = Сыр
+
+— RUNES
+
+Rune of Double Damage = Руна двойного урона
+Rune of Haste = Руна ускорения
+Rune of Regeneration = Руна восстановления
+Rune of Invisibility = Руна невидимости
+Rune of Illusion = Руна иллюзий

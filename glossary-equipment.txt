@@ -1,0 +1,113 @@
+﻿— Legendary Sets —
+Alpine Stalker — Альпийский охотник
+Garments of the Nightsilver Sentinel — Одеяние хранительницы Серебра ночи
+Rider of the Storm — Всадник бури
+The Great Grey — Грозный серый волк
+
+— Mythical Sets —
+Attributes of the Foretold — Знамения грядущего
+Dark Ruin — Темные руины
+Empowered Vestments of the Gods — Могущественное одеяние богов
+Entropic Battlegear of the Warrider — Энтропийная броня всадника
+Forged in Demons' Blood — Кованый в крови демонов
+Gemmed Armor of the Priest Kings — Украшенная броня королей священников
+The Atniw's Fury — Буйство Атнива
+The Demonic Archivist — Демонический архивовед
+The Moon Rider — Лунная всадница
+The Rough Rider of Yama Raskav — Суровый наездник Яма Раскава
+Tools of the Haruspex — Орудия гаруспика
+
+— Rare Sets —
+Armored Exoskeleton — Бронескелет
+Dressings of the First Light — Наряд Первого света
+Embers of Endless Havoc — Зола Вечного разгрома
+Flight of the Sparrowhawk — Полет воробьястреба
+Of Ebony and Ivory — Черного и белого
+Relics of the Putrid Pontiff — Реликвии Чумного жреца
+Starlight — Свет звезд
+The Mage Slayer — Убийца магов
+
+— Uncommon Sets —
+Flamestitched Suitings — Огнетканный наряд
+Wicked Succubus — Порочный суккуб
+
+— Common Sets —
+Gunslinger — Опытный стрелок
+Wicked Bad — Темный целитель
+
+— Immortal Items —
+Cauldron of Xahryx — Котел Ксарикса
+Dragonclaw Hook — Коготь дракона
+Fiery Soul of the Slayer — Пламенная душа воительницы
+Leviathan Whale Blade — Меч левиафанового кита
+Mace of the Chosen — Булава избранного
+Scree'auk's Talon — Коготь Скриок
+Timebreaker — Нарушитель времени
+Whalehook — Китокрюк
+
+— Ancient Items —
+
+— Legendary Items —
+Aether-Wings — Эфирные крылья
+Arcane Staff of the Ancients — Чародейский посох Древних
+Battlefury — Топор ярости
+Berserker’s Witchslayer — Ведьморез берсерка
+Bessy Batmeleon — Мышелеон Бесси
+BladeBiter — Жалящий меч
+Bow of the Howling Wind — Лук воющего ветра
+Broken Shackles — Разорванные цепи
+Chaos Knight's Armlet of Mordiggian — Нарукавник Мордигиана Рыцаря хаоса
+Crest of the Wyrm Lords — Щит владык драконов
+Crown of the Death Priestess — Корона жрицы смерти
+Dragon Sword — Меч дракона
+The Dreaded Forgewing — Зловещий сталекрыл
+Flowering Treant — Цветущий треант
+Frost Owl's Beacon — Светило Ледяной совы
+Heaven-Piercing Pauldrons — Пронзающие небеса наплечники
+Kantusa the Script Sword — Расписанный меч Кантýса
+Kunkka's Shadow Blade — Клинок теней Кункки
+Nyx Assassin's Dagon — Дагон Служителя Никсы
+Prisoner's Anchor — Кандалы заключенного
+Rampant the Scaled Hunter — Чешуйчатый охотник Буян
+Recluse Reef Denizen — Обитатель Одинокого рифа
+Rotten Stache — Поганые усы
+Scythe of Vyse — Коса Вайза
+Skull of Xahryx — Череп Ксарикса
+Stryff the Owlion — Соволев Стриф
+Wings of the Ruby Web — Крылья из рубиновой паутины
+Wyvernguard Edge — Клинок убийцы драконов
+
+— Mythical Items —
+Andalmere the Litigon — Тигролев Андальмер
+Bertha the Morde-bat — Смертомышь Берта
+Buttercup — Лютик
+Call of the Dendrochron — Зов Дендрохрона
+Feral the Werebat — Мышь-оборотень Дикарь
+Fireborn Odachi — Огненнорожденный Одачи
+Form of the Onyx Grove — Облик Черной рощи
+Grull the Grim Walker — Темный ходок Грул
+Hellstrider — Адский скакун
+Ishul-Shog the Watcher  — Смотритель Ишулшог
+Lyralei's Breeze — Бриз Лиралей
+Ormr the Lunar Dragon — Лунный дракон Ормр
+Roehrin the Pale Stallion — Бледный жеребец Роерин
+Sanurok the Ever Able — Всемогущий Санурок
+Spirit of Calm — Дух спокойствия
+The Blood Chaser — Кровопреследователь
+The Instagib OSP — Инстагиб ОСП
+
+— Rare Items —
+Aegis of the Storm — Щит бури
+Ataxia — Атаксия
+Morcant — Моркант
+Stormthrasher — Громобой
+Spirit of the Atniw — Дух Атнива
+The Stinger — Жало
+
+— Uncommon Items —
+Gladys the Light-Bearing Mule — Светоносный мул Гладис
+Rachel the Morde-bat — Смертомышь Рейчел
+Tinek the Unmastered — Неукротимый Тинек
+
+— Common Items —
+Relic Blade of the Kuur-Ishiminari — Реликтовый клинок Куур-Ишиминари

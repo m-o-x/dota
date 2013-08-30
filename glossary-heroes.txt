@@ -1,0 +1,857 @@
+﻿— A —
+
+Abaddon, the Lord of Avernus
+— Аваддон, лорд Аверн
+	Mist Coil = Виток мглы
+	Aphotic Shield = Сумрачный щит
+	Curse of Avernus = Проклятие Аверна
+	Borrowed Time = Продление жизни
+
+Razzil Darkbrew, the Alchemist
+— Раззил Темновар, алхимик
+	Acid Spray = Ядовитые брызги
+	Unstable Concoction = Неустойчивая смесь
+	Goblin's Greed = Гривильская жадность
+	Chemical Rage = Химическая ярость
+
+Kaldr, the Ancient Apparition
+— Калдр, древнее видение
+	Cold Feet = Ледяные оковы
+	Ice Vortex = Морозный вихрь
+	Chilling Touch = Могущество холода
+	Ice Blast = Взрыв льда
+
+Anti-Mage
+— Антимаг
+	Mana Break = Выжигание маны
+	Blink = Скачок
+	Spell Shield = Щит заклятий
+	Mana Void = Губительная пустота
+
+Mogul Khan, the Axe
+— Могол Хан, «Тесак»
+	Berserker's Call = Зов берсерка
+	Battle Hunger = Жажда битвы
+	Counter Helix = Контрудар
+	Culling Blade = Избирательный клинок
+
+— B —
+
+Atropos, the Bane
+— Атропос, кошмар
+	Enfeeble = Ослабление
+	Brain Sap = Иссушение разума
+	Nightmare = Сновидение
+	Fiend's Grip = Демоническая хватка
+
+Batrider
+— Наездник
+	Sticky Napalm = Липкий напалм
+	Flamebreak = Горючая смесь
+	Firefly = Пламенный полет
+	Flaming Lasso = Огненное лассо
+
+Karroch, the Beastmaster
+— Каррок, укротитель зверей
+	Wild Axes = Дикие топоры
+	Call of the Wild = Зов дикой природы
+	Inner Beast = Звериное нутро
+	Primal Roar = Дикий рык
+
+Stygwyr, the Bloodseeker
+— Стригвир, кровоискатель
+	Bloodrage = Кровавая ярость
+	Blood Bath = Кровавая баня
+	Thirst = Жажда
+	Rupture = Кровопускание
+
+Gondar, the Bounty Hunter
+— Гондар, охотник за головами
+	Shuriken Toss = Бросок сюрикена
+	Jinada = Чинада
+	Shadow Walk = Прогулка в тени
+	Track = Метка
+
+Mangix, the Brewmaster
+— Мангикс, пивовар
+	Thunder Clap = Громовой хлопок
+	Drunken Haze = Винные пары
+	Drunken Brawler = Пьяный мастер
+	Primal Split = Основы мироздания
+		Earth = Земля
+		Hurl Boulder = Бросок валуна
+		Spell Immunity = Защита от магии
+		Pulverize = Дробление
+
+		Storm = Воздух
+		Dispel Magic = Рассеяние заклинаний
+		Cyclone = Вихрь
+		Wind Walk = Ветряная походка
+
+		Fire = Огонь
+		Permanent Immolation = Вечное горение
+
+Rigwarl, the Bristleback
+— Ригварл, «Иглогрив»
+	Viscous Nasal Goo = Вязкая слизь
+	Quill Spray = Веер игл
+	Bristleback = Грива дыбом
+	Warpath = Тропа войны
+
+Black Arachna, the Broodmother
+— Черная вдова, праматерь
+	Spawn Spiderlings = Потомство
+	Spin Web = Паутина
+	Incapacitating Bite = Парализующий укус
+	Insatiable Hunger = Неутолимый голод
+
+— C —
+
+Bradwarden, the Centaur Warrunner
+— Брадворден, вожак кентавров
+	Hoof Stomp = Удар копытом
+	Double Edge = Острый клинок
+	Return = Отдача
+	Stampede = Набег
+
+Chaos Knight
+— Рыцарь хаоса
+	Chaos Bolt = Заряд хаоса
+	Reality Rift = Скачок измерений
+	Chaos Strike = Хаотичный удар
+	Phantasm = Фантасмагория
+
+Chen, the Holy Knight
+— Чен, рыцарь веры
+	Penitence = Покаяние
+	Test of Faith = Испытание веры
+	Holy Persuasion = Подчинение
+	Hand of God = Божья длань
+
+Clinkz, the Bone Fletcher
+— Клинкс, скелет-лучник
+	Strafe = Обстрел
+	Searing Arrows = Пылающие стрелы
+	Skeleton Walk = Походка скелета
+	Death Pact = Смертельный союз
+
+Rattletrap, the Clockwerk
+— Драндулет, часовщик
+	Battery Assault = Разрывные снаряды
+	Power Cogs = Силовые шестерни
+	Rocket Flare = Сигнальная ракета
+	Hookshot = Аркан
+
+Rylai, the Crystal Maiden
+— Рилай, кристальная дева
+	Crystal Nova = Ледяной взрыв
+	Frostbite = Обморожение
+	Arcane Aura = Колдовская аура
+	Freezing Field = Буран
+
+— D —
+
+Ish'kafel, the Dark Seer
+— Ишкафель, мраковидящий
+	Vacuum = Вакуум
+	Ion Shell = Ионный панцирь
+	Surge = Прилив энергии
+	Wall of Replica = Стена иллюзий
+
+Dazzle, the Shadow Priest
+— Дазл, жрец теней
+	Poison Touch = Поражение ядом
+	Shallow Grave = Пустая могила
+	Shadow Wave = Волна теней
+	Weave = Переплетение
+
+Krobelus, the Death Prophet
+— Кробелус, вестница смерти
+	Crypt Swarm = Темная стая
+	Silence = Безмолвие
+	Witchcraft = Черная магия
+	Exorcism = Экзорцизм
+
+Disruptor, the Stormcrafter
+— Дисраптор, громодел
+	Thunder Strike = Грозовая атака
+	Glimpse = Мелькание
+	Kinetic Field = Силовое поле
+	Static Storm = Шквальная буря
+
+Lucifer, the Doom
+— Люцифер, вершитель судеб
+	Devour = Поглощение
+	Scorched Earth = Выжженная земля
+	LVL? Death = Числа смерти
+	Doom = Пентаграмма
+
+Davion, the Dragon Knight
+— Девион, рыцарь-дракон
+	Breathe Fire = Огненное дыхание
+	Dragon Tail = Хвост дракона
+	Dragon Blood = Кровь дракона
+	Elder Dragon Form = Облик дракона
+
+Traxex, the Drow Ranger
+— Траксес, темная охотница
+	Frost Arrows = Ледяные стрелы
+	Silence = Безмолвие
+	Trueshot Aura = Аура меткости
+	Marksmanship = Меткая стрельба
+
+— E —
+
+Raigor Stonehoof, the Earthshaker
+— Рейгор Камнестоп, землевержец
+	Fissure = Разлом
+	Enchant Totem = Зачарование тотема
+	Aftershock = Повторный удар
+	Echo Slam = Сокрушающий удар
+
+Elder Titan, the Worldsmith 
+— Древний титан, мироздатель
+	Echo Stomp = Сотрясающий топот
+	Ancestral Spirit = Дух предков
+	Natural Order = Естество
+	Earth Splitter = Разлом земли
+
+Aiushtha, the Enchantress
+— Аюшта, чаровница
+	Untochable = Неприкасаемая
+	Enchant = Очарование
+	Nature's Attendants = Служители природы
+	Impetus = Стремительность
+
+Enigma
+— Энигма
+	Malefice = Сглаз
+	Demonic Conversion = Обращение
+	Midnight Pulse = Полночный импульс
+	Black Hole = Черная дыра
+
+— F —
+
+Darkterror, the Faceless Void
+— Темный мучитель, безликий ужас
+	Time Walk = Временной скачок
+	Backtrack = Предотвращение
+	Time Lock = Остановка времени
+	Chronosphere = Хроносфера
+
+— G —
+
+Aurel Vlaicu, the Gyrocopter 
+— Аурел Влайку, вертолетчик
+	Rocket Barrage = Заградительный огонь
+	Homing Missile = Самонаводящаяся ракета
+	Flak Cannon = Тяжелая артиллерия
+	Call Down = Авиаудар
+
+— H —
+
+Huskar, the Sacred Warrior
+— Хускар, священный воин
+	Inner Vitality = Внутренняя энергия
+	Burning Spear = Пылающее копье
+	Berserker's Blood = Кровь берсерка
+	Life Break = Кровь за кровь
+
+— I —
+
+Invoker
+— Заклинатель
+	Quas = Квас
+	Wex = Векс
+	Exort = Эксорт
+	Invoke = Вызов
+		Cold Snap = Холодная хватка
+		Ghost Walk = Призрачная походка
+		Tornado = Торнадо
+		EMP = ЭМИ
+		Alacrity = Стремительность
+		Chaos Meteor = Огненный метеор
+		Sun Strike = Солнечный удар
+		Forge Spirit = Призыв духа
+		Ice Wall = Ледяная стена
+		Deafening Blast = Обессиливающая волна
+
+Io, the Guardian Wisp
+— Ио, светоч
+	Tether = Привязь
+	Spirits = Духи
+	Overcharge = Перегрузка
+	Relocate = Перемещение
+
+— J —
+
+Jakiro, the Twin Head Dragon
+— Жакиро, двуглавый дракон
+	Dual Breath = Двойное дыхание
+	Ice Path = Ледяная дорожка
+	Liquid Fire = Жидкий огонь
+	Macropyre = Испепеление 
+
+Jurnero, the Juggernaut
+— Юрнеро, джаггернаут
+	Blade Fury = Стальной вихрь
+	Healing Ward = Исцеляющий идол
+	Blade Dance = Танец клинка
+	Omnislash = Резня
+
+— K —
+
+Ezalor, the Keeper of the Light
+— Эзалор, хранитель света
+	Illuminate = Освещение
+	Mana Leak = Утечка маны
+	Chakra Magic = Очищение чакр
+	Spirit Form = Духовный облик
+
+Kunkka, the Admiral
+— Кункка, адмирал
+	Torrent = Гейзер
+	Tidebringer = Волнорез
+	X Marks The Spot = Метка на карте
+	Ghost Ship = Корабль-призрак
+
+— L —
+
+Lanaya, the Templar Assassin
+— Ланая, храмовница
+	Refraction = Отражение
+	Meld = Слияние
+	Psi Blades = Пси-клинки
+	Psionic Trap = Колдовская ловушка
+
+Leshrac, the Tormented Soul
+— Лешрак, истерзанная душа
+	Split Earth = Раскол земли
+	Diabolic Edict = Дьявольский устав
+	Lightning Storm = Грозовая туча
+	Pulse Nova = Пульсар
+
+Ethreain, the Lich
+— Итрейн, лич
+	Frost Nova = Морозный взрыв
+	Frost Armor = Ледяная броня
+	Sacrifice = Жертвоприношение
+	Chain Frost = Цепная заморозка
+
+N'aix, the Lifestealer
+— Наикс, вурдалак
+	Rage = Ярость
+	Feast = Пожирание
+	Open Wounds = Рваные раны
+	Infest = Паразит
+
+Lina, the Slayer
+— Лина, воительница
+	Dragon Slave = Пылающий дракон
+	Light Strike Array = Столп огня
+	Fiery Soul = Пылкая натура
+	Laguna Blade = Гроза богов
+
+Lion, the Demon Witch
+— Леон, ведьмак
+	Earth Spike = Подземный шип
+	Hex = Проклятие
+	Mana Drain = Похищение маны
+	Finger of Death = Перст смерти
+
+Sylla, the Lone Druid
+— Силла, друид-отшельник
+	Summon Spirit Bear = Вызов духа медведя
+	Rabid = Раж
+	Synergy = Кровные узы
+	True Form = Истинный облик
+
+Luna, the Moon Rider
+— Луна, лунная всадница
+	Lucent Beam = Сияющий луч
+	Moon Glaive = Лунный клинок
+	Lunar Blessing = Благославение Луны
+	Eclipse = Затмение
+
+Banehallow, the Lycanthrope
+— Гореслав, оборотень
+	Summon Wolves = Призыв волков
+	Howl = Вой
+	Feral Impulse = Животный инстинкт
+	Shapeshift = Перевоплощение
+
+— M —
+
+Magnus, the Magnoceros
+— Магнус, большерог
+	Shockwave = Ударная волна
+	Empower = Могущество
+	Skewer = Вертел
+	Reverse Polarity = Обратная полярность
+
+Medusa, the Gorgon
+— Медуза, горгона
+	Split Shot = Расщеплённые стрелы
+	Mystic Snake = Мистический змей
+	Mana Shield = Магический щит
+	Stone Gaze = Окаменяющий взгляд
+
+Meepo, the Geomancer
+— Мипо, землевед
+	Earthbind = Земные оковы
+	Poof = Бах
+	Geostrike = Сила земли
+	Divided We Stand = Порознь выстоим
+
+Mirana, the Princess of the Moon
+— Мирана, принцесса Луны
+	Starstorm = Звездопад
+	Sacred Arrow = Священная стрела
+	Leap = Прыжок
+	Moonlight Shadow = Лунная тень
+
+Morphling
+— Морфлинг
+	Waveform = Волна
+	Adaptive Strike = Адаптивный удар
+	Morph (Agility Gain) = Быстрее
+	Morph (Strengh Gain) = Сильнее
+	Replicate = Двойник
+
+— N —
+
+Slithice, the Naga Siren
+— Слитис, нага-сирена
+	Mirror Image = Зеркальное отражение
+	Ensnare = Сеть
+	Rip Tide = Отбойная волна
+	Song of the Siren = Песнь сирены
+
+Nature's Prophet
+— Лесной пророк
+	Sprout = Заросли
+	Teleportation = Телепортация
+	Nature's Call = Зов природы
+	Wrath of Nature = Гнев природы
+
+Rotund'jere, the Necrolyte
+— Ротунджер, некролит
+	Death Pulse = Смертельный импульс
+	Heartstopper Aura = Убийственная аура
+	Sadist = Садист
+	Reaper's Scythe = Коса Жнеца
+
+Balanar, the Night Stalker
+— Баланар, ночной охотник
+	Void = Бездна
+	Crippling Fear = Калечащий страх
+	Hunter in the Night = Время охоты
+	Darkness = Тьма
+
+Nyx Assassin
+— Служитель Никсы
+	Impale = Пронзающие шипы
+	Mana Burn = Сожжение маны
+	Spiked Carapace = Шипованный панцирь
+	Vendetta = Вендетта
+
+— O —
+
+Aggron Stonebreaker, the Ogre Magi
+— Аггрон Камнелом, огр-маг
+	Fireblast = Огненная вспышка
+	Ignite = Воспламенение
+	Bloodlust = Кровожадность
+	Multicast = Многократный залп
+
+Purist Thunderwrath, the Omniknight
+— Ревнитель Громобой, паладин
+	Purification = Просветление
+	Repel = Отторжение магии
+	Degen Aura = Ослаблящюая аура
+	Guardian Angel = Ангел-хранитель
+
+Harbinger, the Outworld Devourer
+— Предвестник, поглотитель миров
+	Arcane Orb = Волшебный шар
+	Astral Imprisonment = Заточение в астрале
+	Essence Aura = Духовная аура
+	Sanity's Eclipse = Затмение разума
+
+— P —
+
+Mortred, the Phantom Assassin
+— Мортред, призрачная убийца
+	Stifling Dagger = Удушающий клинок
+	Phantom Strike = Призрачная атака
+	Blur = Размытие
+	Coup de Grace = Удар милосердия
+
+Azwraith, the Phantom Lancer
+— Азраит, улан-фантом
+	Spirit Lance = Духовное копье
+	Doppelwalk = Мираж
+	Juxtapose = Наложение
+	Phantom Edge = Сила духа
+
+Puck, the Faerie Dragon
+— Пак, волшебный дракон
+	Illusory Orb = Иллюзорный шар
+	Waning Rift = Волшебная пыльца
+	Phase Shift = Бегство в астрал
+	Dream Coil = Виток фантазии
+
+Pudge, the Butcher
+— Толстяк, мясник
+	Meat Hook = Мясной крюк
+	Rot = Гниение
+	Flesh Heap = Груда мяса
+	Dismember = Разделка
+
+Pugna, the Oblivion
+— Пугна, властелин Забвения
+	Nether Blast = Астральная вспышка
+	Decrepify = Истощение
+	Nether Ward = Магический страж
+	Life Drain = Похищение жизни
+
+— Q —
+
+Akasha, the Queen of Pain
+— Акаша, королева боли
+	Shadow Strike = Отравленный кинжал
+	Blink = Скачок
+	Scream of Pain = Крик боли
+	Sonic Wave = Звуковая волна
+
+— R —
+
+Razor, the Lightning Revenant
+— Рейзор, порождение молнии
+	Plasma Field = Плазменное поле
+	Static Link = Статическая связь
+	Unstable Current = Нестабильный ток
+	Eye of the Storm = Глаз бури
+
+Riki, the Stealth Assassin
+— Рики, незримый убийца
+	Smoke Screen = Дымовая завеса
+	Blink Strike = Мгновенный удар
+	Backstab = Удар в спину
+	Permanent Invisibility = Вечная невидимость
+
+Rubick, the Grand Magus
+— Рубик, верховный чародей
+	Telekinesis = Телекинез
+	Fade Bolt = Ослабляющий заряд
+	Null Field = Поле очищения
+	Spell Steal = Кража заклинания
+
+— S —
+
+Crixalis, the Sand King
+— Криксалис, король песков
+	Burrowstrike = Подкоп
+	Sand Storm = Песчаная буря
+	Caustic Finale = Взрывной финал
+	Epicenter = Эпицентр
+
+Dragonus, the Skywrath Mage
+— Драгонус, небесный маг
+	Arcane Bolt = Чародейский заряд
+	Concussive Shot = Ошеломляющий выстрел
+	Achient Seal = Древняя печать
+	Mystic Flare = Загадочное сияние
+
+Shadow Demon
+— Демон мрака
+	Disruption = Распад
+	Soul Catcher = Ловец душ
+	Shadow Poison = Теневой яд
+	Demonic Purge = Демоническое очищение
+
+Nevermore, the Shadow Fiend
+— Невермор, исчадие тьмы
+	Shadowraze = Столп тьмы
+	Necromastery = Некромастерство
+	Presence of the Dark Lord = Лик властелина тьмы
+	Requiem of Souls = Реквием душ
+
+Rhasta, the Shadow Shaman
+— Раста, тайный шаман
+	Ether Shock = Встряска
+	Hex = Проклятие
+	Shackles = Оковы
+	Mass Serpent Ward = Сторожевые змеи
+
+Nortrom, the Silencer
+— Нортром, заглушитель
+	Curse of the Silent = Проклятие молчания
+	Glaives of Wisdom = Глефы мудрости
+	Last Word = Последнее слово
+	Global Silence = Всеобщее молчание
+
+Ostarion, the Skeleton King
+— Остарион, костяной король
+	Hellfire Blast = Адское пламя
+	Vampiric Aura = Аура вампиризма
+	Mortal Strike = Смертельный удар
+	Reincarnation = Перерождение
+
+Slark, the Nighcrawler
+— Сларк, попрыгун
+	Dark Pact = Темный союз
+	Pounce = Наскок
+	Essence Shift = Смещение сил
+	Shadow Dance = Танец теней
+
+Slardar, the Slithereen Guard
+— Слардар, ползучий страж
+	Sprint = Спринт
+	Slithereen Crush = Сокрушение
+	Bash = Толчок
+	Amplify Damage = Раскол брони
+
+Kardel Sharpeye, the Sniper
+— Кардель Острозоркий, снайпер
+	Shrapnel = Шрапнель
+	Headshot = Выстрел в голову
+	Take Aim = Прицеливание
+	Assassinate = Ликвидация
+
+Mercurial, the Spectre
+— Меркуриал, спектр
+	Spectral Dagger = Спектральный клинок
+	Desolate = Отчаяние
+	Dispersion = Рассеяние
+	Haunt = Наваждение
+
+Barathrum, the Spirit Breaker
+— Баратрум, душегуб
+	Charge of Darkness = Преследование
+	Empowering Haste = Усиливающее ускорение
+	Greater Bash = Мощный толчок
+	Nether Strike = Скрытый удар
+
+Raijin Thunderkeg, the Storm Spirit
+— Райджин Громокег, дух бури
+	Static Remnant = Статический остаток
+	Electric Vortex = Электрическая воронка
+	Overload = Перенапряжение
+	Ball Lightning = Шаровая молния
+
+Sven, the Rogue Knight
+— Свен, мятежный рыцарь
+	Storm Hammer = Грозовой кулак
+	Great Cleave = Широкий размах
+	Warcry = Боевой клич
+	God's Strength = Сила богов
+
+— T —
+
+Leviathan, the Tidehunter
+— Левиафан, волнолов
+	Gush = Всплеск
+	Kraken Shell = Панцирь кракена
+	Anchor Smash = Удар якорем
+	Ravage = Погром
+
+Rizzrak, the Timbersaw
+— Ризрак, резак
+	Whirling Death = Вертящаяся смерть
+	Timber Chain = Цепь лесника
+	Reactive Armor = Реактивная броня
+	Chakram = Чакра
+
+Boush, the Tinker
+— Бауш, механик
+	Laser = Лазер
+	Heat-Seeking Missile = Тепловые ракеты
+	March of the Machines = Марш машин
+	Rearm = Перевооружение
+
+Tiny, the Stone Giant
+— Кроха, каменный гигант
+	Avalanche = Обвал
+	Toss = Бросок
+	Craggy Exterior = Скалистая внешность
+	Grow = Рост
+
+Rooftrellen, the Treant Protector
+— Руфтрелен, древесный страж
+	Nature's Guise = Слияние с природой
+	Leech Seed = Паразитное семя
+	Living Armor = Живая броня
+	Overgrowth = Разрастание
+
+Ja'rakal, the Troll Warlord
+— Джа'Ракал, повелитель троллей
+	Berserker Rage = Ярость берсерка
+	Whirling Axes = Вихрь топоров
+	Fervor = Рвение
+	Battle Trance = Боевой транс
+
+Ymir, the Tusk
+— Имир, «Бивень»
+	Ice Shards = Ледяные осколки
+	Snowball = Снежок
+	Frozen Sigil = Ледяной идол
+	Walrus Punch = Удар моржа
+
+— U —
+
+Undying, the Almighty Dirge 
+— Нетленный, бескрайняя скорбь
+	Decay = Разложение
+	Soul Rip = Терзание душ
+	Tombstone = Могильный камень
+	Flesh Golem = Ходячая плоть
+
+Ulfsaar, the Ursa
+— Ульфсаар, воин урса
+	Earthshock = Сотрясение
+	Overpower = Превосходство
+	Fury Swipes = Глубокие раны
+	Enrage = Бешенство
+
+— V —
+
+Shendelzare, the Vengeful Spirit
+— Шендельзар, мстящая душа
+	Magic Missile = Магический снаряд
+	Wave of Terror = Волна ужаса
+	Vengeance Aura = Аура мщения
+	Nether Swap = Подмена
+
+Lesale Deathbringer, the Venomancer
+— Лесаль Смертоносный, веномант
+	Venomous Gale = Ядовитое облако
+	Poison Sting = Кислотный ожог
+	Plague Ward = Чумной страж
+	Poison Nova = Всплеск яда
+
+Viper, the Netherdrake
+— Гадюка, подземный ящер
+	Poison Attack = Ядовитый плевок
+	Nethertoxin = Глубинный яд
+	Corrosive Skin = Едкая кожа
+	Viper Strike = Укус гадюки
+
+Visage, the Bound Form of Necro'lic
+— Визаж, каменный облик Некролика
+	Grave Chill = Могильный холод
+	Soul Assumption = Поглощение душ
+	Gravekeeper's Cload = Накидка могильщика
+	Summon Familiars = Призыв горгулий
+
+— W —
+
+Demnok Lannik, the Warlock
+— Демнок Ланник, чернокнижник
+	Fatal Bonds = Смертельные узы
+	Shadow Word = Темные чары
+	Upheaval = Восстание
+	Chaotic Offering = Огненный голем
+
+Skitskurr, the Weaver
+— Скитскур, ткач
+	The Swarm = Рой
+	Shukuchi = Шукучи
+	Geminate Attack = Двойная атака
+	Time Lapse = Искажение времени
+
+Lyralei, the Windrunner
+— Лиралей, ветрокрылая
+	Shackleshot = Сковывающий выстрел
+	Powershot = Заряженный выстрел
+	Windrun = Крылья ветра
+	Focus Fire = Сосредоточенный огонь
+
+Zharvakko, the Witch Doctor
+— Жарвакко, знахарь
+	Paralyzing Cask = Парализующая смесь
+	Voodoo Restoration = Исцеление
+	Maledict = Порча
+	Death Ward = Тотем смерти
+
+— Z —
+
+Zeus, the Lord of Heaven
+— Зевс, владыка небес
+	Arc Lightning = Цепная молния
+	Lightning Bolt = Заряд молнии
+	Static Field = Статическое поле
+	Thundergod's Wrath = Гнев громовержца
+
+——————————————————————————————
+
+Icarus, the Phoenix
+— Икар, феникс
+	Icarus Dive = Полет Икара
+	Fire Spirits = Духи огня
+	Sun Ray = Солнечный луч
+	Supernova = Сверхновая
+
+Azgalor, the Abyssal Underlord
+— Азгалор, влаcтитель бездны
+	Firestorm = Огненная буря
+	Pit of Malice = Бездна страданий
+	Atrophy Aura = Ослабляющая аура
+	Dark Rift = Темный портал
+
+Terrorblade, the Soul Keeper
+— Страхорез, похититель душ
+	Reflection = Отражение
+	Conjure Image = Создание иллюзии
+	Metamorphosis = Метаморфоза
+	Sunder = Обмен
+
+Squee, Spleen and Spoon, the Techies
+— , техники
+	Land Mines = Наземные мины
+	Stasis Trap = Оглушающая ловушка
+	Suicide Squad, Attack! = Отряд самоубийц, в бой!
+	Remote Mines = Управляемые мины
+
+Xin, the Ember Spirit
+— Ксинь, дух огня
+	Searing Chains = Пылающие оковы
+	Sleight of Fist = Ловкость рук
+	Flame Guard = Пламенный щит
+	Fire Remnant = Огненная копия
+
+Tresdin, the Legion Commander
+— Тресдин, командир легиона
+	Overwhelming Odds = Перевес в силах
+	Press The Attack = Натиск
+	Movement of Courage = Отважный поступок
+	Duel = Дуэль
+
+Zet, the Arc Warden
+— Зет, усмиритель тока
+	Flux = Прилив
+	Magnetic Field = Магнитное поле
+	Spark Wraith = Призрачная искра
+	Tempest Double = Усиление бури
+
+Auroth, the Winter Wyvern
+— Орот, зимняя виверна
+	Arctic Burn = Ледяной ожог
+	Splinter Blast = Взрыв осколков
+	Cold Embrace = Объятия холода
+	Winter's Curse = Проклятие зимы
+
+Kaolin, the Earth Spirit
+— Каолин, дух земли
+	Stone Caller = Призыватель камней
+	Rolling Boulder = Катящийся валун
+	Boulder Smash = Удар валуна
+	Geomagnetic Grip = Геомагнитный захват
+	Magnetize = Намагничивание
+
+Nerif, the Oracle
+— Нериф, оракул
+	Fortune's End = Злосчастие
+	Fate's Edict = Злой рок
+	Purifying Flames = Очищающее пламя
+	False Promise = Ложная надежда

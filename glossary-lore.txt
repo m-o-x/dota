@@ -1,0 +1,317 @@
+﻿— Places —
+Acid Jungles — Ядовитые джунгли
+Ash Archipelago — Пепельные острова
+Augury Bay — Бухта пророчеств
+Bay of Fradj — Залив Фрадж
+Black Pool — Черное озеро
+Bleeding Hills — Кровавые холмы
+Blueheart Glacier — Ледник Голубое Сердце
+Bone Ruins — Костяные руины
+Candoness — Кандонис
+Cathedral of Rumusque — Кафедральный собор Румуска
+Cladd — Кладд
+Claszureme — Клазурим
+Coral Breach — Кораловый разлом
+Crey — Крей
+Dark Reef — Темный риф
+Desert of Misrule — Пустыня Мизрул
+Devarque — Деварк
+Ebony Tower — Черная башня
+El'Harath — Эльхарат
+Elze — Эльза
+Emauracus — Эморак
+Empire of Bones — Костяная империя
+Endless Copse — Бескрайняя роща
+Feral Road — Дикий путь
+Fields of Endless Carnage — Поля вечной бойни
+Ghastly Eyrie — Ужасающее гнездо
+Gleaming City — Сияющий город
+Halgalareh — Халгаларех
+Hazhadal Barrens — Хажадальская пустошь
+Hidden Temple — Тайный храм
+Highsand — Высокие пески
+Highseat — Верхоседие
+Hoven — Ховен
+Icewrack — Ледобойня
+Inner Colannade — Внутренняя колоннада
+Isle of Masks — Остров маск
+Isle of Songs — Остров песен
+Ivory Forest — Костяной лес
+Ivory Isles — Белые острова
+Jidi Isle — Остров Джиди
+Knollen — Кноллен
+Land Behind the Wall — Мир за Стеной
+Lordran — Лордран
+Lost Hills — Забытые холмы
+Mountain Joerlak — Гора Йорлак
+Mount Pyrotheos — Гора Пиротеос
+Narrow Channel — Узкий пролив
+Narrow Maze — Узкий лабиринт
+Nether Reaches — Грань миров
+Nether Realm — Низшее измерение
+Nightsilver Woods — Лес Серебра ночи
+Nishai — Нишаи
+Njord's Hearth — Сердце Ньерда
+Nothl Realm — Королевство Нотл
+Oblivion — Забвение
+Omexe — Омекс
+Onyx Grove — Черная роща
+Outer Hells — Глубины ада
+Outworld, World at the Rim — Иной мир, Крайний мир
+Pangolin — Панголин
+Pole — Пол
+Prefectura — Префектура
+Qaldin — Калдин
+Quoidge — Квоидж
+Recluse Reef — Одинокий риф
+Riftshadow Ruins — Руины Ущелья теней
+Ruelands — Земли скорби
+Ruined City — Город руин
+Ruined Keep, Dark Ruin — Разрушенная цитадель, Темные руины
+Petrified City of Saraddel — Окаменелый город Сараддель
+Scintillant Waste — Искрящаяся пустыня
+Shadeshore — Тенебережье
+Slom — Слом
+Sunken Isles — Затопленные острова
+The Void — Бездна
+Thousand Tarns — Тысячеболотье
+Trembling Isle — Дрожащий остров
+Turstarkuri — Турстаркури
+Ultimyr Academy — Академия Ультимира
+Underscape — Подземный мир
+Upland Druud — Нагорье Друуд
+Vale of Augury — Долина пророчеств
+Vashundol — Вашундол
+Vigil Keep — Цитадель Дозора
+Violet Plateau — Лиловое плато
+Wailing Mountains — Скулящие горы
+Wolfsden Tavern — Таверна «Логово волка»
+Xhacatocatl — Ксакатокатл
+Yama Raskav Jungle — Джунгли Яма Раскав
+Yoskreth — Йоскрет
+Zaru'Kina — Зарукина
+
+— Characters —
+Abzidian the Demon-Smith — Демон-кузнец Абзидиан
+Akakiryu of a Thousand Faces — Тысячеликий Акакирю
+Al-Fusha — Ал-Фуша
+Ambinderath the Undead Dragon — Мертвый дракон Амбиндерат
+Ancient Sovereign — Древний правитель
+Anhil — Анхил
+Anzar-Anzuli'i — Анзар-Анзулий
+Armageddon — Армагеддон
+Atniw — Атнив
+Atos, the Lord of Blight — Атос, властелин уныния
+Basilius — Василиос
+Belladonna — Белладонна
+Birot of the Deep Waters — Бирот Глубинноводный
+Black King — Черный король
+Brag 'Whistlecheeks' Sharpeye — Браг Острозоркий, «Свистун»
+Bramble Lord — Терновый властелин
+Brok and Eitri — Брок и Синдри
+Castor Twin-Tusks — Кастор Двуклыкий
+Commander of the Abyss — Командир Бездны
+Crymson Wyvern — Багровый дракон
+Dead God, Unliving Lord — Мертвый бог
+Deep Ones — Глубочайшие
+Dero — Деро
+Djinn of Qaldin — Джин Калдина
+Dreadknight — Ужасный рыцарь
+Duke of Levinthal — Герцог Левинтала
+Ecclesiast-King of Elze — Король-священник Эльзы
+Elder Greyhoof — Старейшина Серокопытный
+Eldritch — Мистик
+Eul — Еул
+Flayed Twins, Flayed Ones, Those That Ever-Thirst — Бескожие близнецы, Вечножаждущие
+Frost Owl — Ледяная сова
+Garthos — Гартос
+Goddess of Luck — Богиня удачи
+God-King Damathryx — Король-бог Даматрикс
+Golden Mane — Златогрив
+Ice Wizard — Ледяной колдун
+Immortal — Бессмертный
+King Goff — Король Гоф
+King-Mage Sutherex — Король-маг Сутерекс 
+Last King of Slom — Последний король Слома
+Linken — Линкен
+Lion of the Moon — Лунный лев
+Maelrawn the Tentacular — Мелрон Щупальцеликий
+Maraxiform — Мараксиформ
+Midas — Мидас
+Monkey King — Царь обезьян
+Mordiggian — Мордиггиан
+Necro'lic — Некролик
+Night Terror the Boogeyman — Ночной кошмар, страшилище
+Nova — Нова
+Nyctasha — Никташа
+Nyx — Никса
+Omniscience, All Seeing One — Всезнающий, Всевидящий
+Omoz — Омоз
+Pallid Meranth — Бледная Мерант ???
+Ptholopthales the Vizier of Greed — Визирь алчности Птолоптал
+Rak-noth Rak-nul — Ракнот Ракнул
+Saberhorn — Саблешлем
+Sagan — Саган
+Sahsk — Саск
+Sea Dragon — Морской дракон
+Selemene, Goddess of the Moon — Богиня Луны Селемена
+Shiva — Шива
+Skree'auk — Скриок
+Slyrak — Слайрак
+Solar Goddess — Богиня Солнца
+Soruq the Hunter — Охотник Сорук
+Suicide-Mages of Cladd — Маги-самоубийцы из Клада
+Tyrian — Тириан
+Uldorak the Time-Dragon — Ульдорак, дракон времени
+Verodicia, Goddess of the Woods — Богиня лесов Веродиция
+Vixia the Grand Dragon — Великий дракон Виксия
+Vladimir — Владимир
+Vyse — Вайз
+Warlord Aquila — Полководец Аквила
+White Cape — Белый плащ
+Xahryx — Ксарикс
+Yando — Яндо
+
+— Unions —
+Aqwanderers — Водопутники
+Army of Red Mist — Армия Красного тумана
+Bear Clan — Клан медведей
+Bladebreaker Order — Орден Мечеломов
+Bloodmist Army — Армия Кровавого тумана
+Bonehunters — Охотники за костями
+Boreal Watch — Северный дозор
+Burning Cabal — Пылающий совет
+Clasz — Клаз
+Cosang Riders — Косангские наездники
+Crimson Cut-throat — Багровые головорезы
+Cult of Vyse — Культ Вайза
+Dark Moon — Темная Луна
+Dark Reef Dozen — Темнорифская дюжина
+Deep Vault Guardians — Хранители тайника
+Demons of the Cataract — Демоны водопада
+Dezun Order — Орден Дезун
+Dynasty of Tahlin — Династия Талин
+Flameguard Sect — Секта Хранителей пламени
+Frost Brigade — Ледяная дружина
+Frostiron Tribe — Племя Ледяной Стали
+Gorgon — Горгоны
+Hidden Council — Тайный совет
+Hidden Hive — Скрытый улей
+House of Ambry — Дом Амбри
+House Avernus — Династия Авернов
+Insubstantial Eleven — Одиннадцать Иллюзорных
+Knights of the Fold — Рыцари Паствы
+Kuur-Ishiminari Craft-Clan — Клан ремесленников Куур-Ишиминари
+Legion of the Dead God — Легион Мертвого бога
+Magus Order — Орден чародеев
+Meranthic Diaspora — Диаспора морских жителей
+Mono Militis Sect — Секта Моно Милитис
+Order of the Aeol Drias — Орден Эол Дриас
+Order of the Oyo — Орден Ойо
+Order of the Stormrider — Орден Всадников бури
+Qaz'hallaq — Казхалак
+Qezh — Кеж
+Redmoon Order — Орден Красной Луны
+Serpent Clan — Клан змей
+Sisters of the Veil, The Veiled Sisters — Сестры Покрова
+Skywrath — Ярость небес
+Slithereen Guard — Ползучие стражи
+Sylvan Guard — Лесные стражи
+Tahlin Watch — Талинские стражи
+Tale-Tellers — Сказители
+Tarnsmen's Gods — Тарнийские боги
+Three Shades — Тройка душ
+Unseen Seven — Семеро незримых
+Ursine Tribe — Племя Урсинов
+Verdant Kings — Зеленые короли
+Vigil Knights — Рыцари Дозора
+Vile Council — Презренный совет
+Wyvernguard — Убийцы драконов
+
+— Magus Order —
+Arsenal Magus Carl — Запасливый чародей Карл
+Dread Magus Vorn — Чудовищный чародей Ворн
+Grand Magus Rubick — Верховный чародей Рубик
+
+— Objects —
+Ancients — Древние крепости
+Arcane Archives — Чародейская библиотека
+Archronicus — Архроник
+Black Grimoire — Черный гримуар
+Candral-Flower — Лунный цветок
+Chronite — Хронит
+Chronoptic Crystals — Хроноптические кристаллы
+Cristaline — Кристалин
+Demon Star — Дьявольская звезда
+Direstone — Зловещий камень
+Divine Throne — Священный трон
+Dragon Star — Драконовая звезда
+Dreadwood — Кошмарное древо
+Font of Avernus — Купель Аверна
+Holy Flame — Святое пламя
+Golden Trove — Золотой кубок
+Mad Moon — Безумная Луна
+Mad Scepter — Безумный скипетр
+Magnetic Ziggurat — Магнитный зиккурат
+Moonblades — Лунные клинки
+Nemesis Stones — Камни вечной борьбы
+Nest of Thorns — Шипастое гнездо
+Outcast Blade — Меч изгоя
+Phantom Veil — Призрачный покров
+Pincher Iron — Пенчерское железо
+Radiant Ore — Сияющая руда
+Riftshadow Crystal — Кристал Ущелья теней
+Sacred Helm — Священный шлем
+Sacred Orb — Священный шар
+Saw-suit — Пилокостюм
+Seed — Семя
+Sempiternal Cantrap Spell — Заклинание Вечных чар
+Sentient Sand — Разумный песок
+Sinorian Gemstone — Синорианский самоцвет
+Solar Throne — Солнечный трон
+Spectrolite — Спектролит
+Sunken Treasury — Затонувшее сокровище
+Sun Vine — Солнечная лоза
+The Loom — Ткацкий станок
+Throne of Bone — Костяной трон
+VIgil Codex — Кодекс Дозора
+Violet Archives — Лиловая библиотека
+
+— Events —
+Battle of Crey — Битва под Креем
+Campaign of the Thousand Tarns — Кампания на Тысячеболотье
+Clanfounding — Основание кланов
+Great Boundaries War — Великая война границ
+Massacre of the Apostates — Резня изменников
+Tribal Wars — Война племен
+Umbral Pact — Теневое соглашение
+War of the Vloy — Война за Влой
+
+— Species —
+Deep Ruby Spider — Глубинный рубиновый паук
+Drakinds — Драконды
+Drow People — Темные
+Eldwurm — Древний дракон
+Fundamentals — Фундаментали
+Gigas — Гигас
+Hellbear — Адский медведь
+Hill Trolls — Холмовые тролли
+Hlotl — Хлотл
+Keen Folk — Карликовый народ
+Leviathans — Левиафаны
+Locuthi — Локути
+Megadon — Мегадон
+Mer — Морские жители
+Netherdrakes — Подземные драконы
+Oglodi — Оглоди
+Oyoloe — Ойолое
+Ozkavosh — Озкавош
+Pyrexae — Теплохладные
+Sparrowhawk — Воробьястреб
+Stormcrow — Буревран
+Tarrasque — Тарраска
+Thunderhide — Громоящер
+Treants — Треанты
+Vhouls — Вули
+Weavers — Ткачи
+Wildwing — Дикокрыл

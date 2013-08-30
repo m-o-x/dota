@@ -1,0 +1,139 @@
+﻿— Couriers —
+Alphid of Lecaciida — Лекациида Альфид
+Baby Roshan — Рошанчик
+Blotto and Stick — Блотто с палкой
+Braze the Zonkey — Зишак Брейз
+Captain Bamboo — Капитан Бамбук
+Cluckles the Brave — Бравый кудахтун
+Cyril the Syrmeleon — Сирмелеон Сирил
+Deathripper — Смерторез
+Defense Season 2 War Dog — Боевой пес Дефенса-2
+Dolfrat and Roshinante — Дольфрат и Рошинанте
+Drodo the Druffin — Друфин Дродо
+El Gato — Эль Гато
+Enduring War Dog — Стойкий боевой пес
+Fearless Badger — Бесстрашный барсук
+Fezzle-Feez the Magic Carpet Smeevil — Смивил Феско-фис на ковре-самолете
+Garran Drywiz and Garactacus — Гарран Суходей и Гарактак
+Golden Baby Roshan — Золотой Рошанчик
+Golden Greevil — Золотой гривил
+Greevil — Гривил
+Inky the Hexapus — Шестиног Инки
+Itsy — Крохотуля
+Kupu the Metamorpher — Метаморфер Купу
+LGD's Golden Skipper — Золотой попрыгун Эл-джи-ди
+Llama Llama — Лама Лама
+Lockjaw the Boxhound — Гончий сундук Замкопаст
+Maximilian the Beetlebear — Медвежук Максимилиан
+Mighty Boar — Могучий хряк
+Mok — Мок
+Moroks Mechanical Mediary — Механический манипулятор Морока
+Murrissey the Smeevil — Смивил Мурисей
+NaVi's Weaselcrow — Ласковран Нави
+Nimble Ben — Проворный Бен
+Osky the Ottragon — Отрагон Оски
+Porcine Princess Penelope — Принцесса поросят Пенелопа
+Prismatic Drake — Призматический дракон
+Ramnaught of Underwool — Баранавт из Подшерстья
+Shagbark — Древолай
+Skip the Delivery Frog — Посыльная лягушка Прыг
+Smeevil — Смивил
+Snelfret the Snail — Улитка Снелфрет
+Snowl — Сновушка
+Speed Demon — Демон ярости
+Star Ladder Grillhound — Звездная жарогончая
+Stumpy  Nature's Attendant — Служитель природы Пеня
+Tickled Tegu — Щекотливая Тегу
+Tinkbot — Мехабот
+Trapjaw the Boxhound — Гончий сундук Острозуб
+Trusty Mountain Yak — Верный горный як
+Waldi the Faithful — Верный Вальди
+Wynchell the Wyrmeleon — Драколеон Винчел
+Yonex's Rage — Ярость Йонекса
+
+— Wards —
+2012 Polycount Ward — Маячок Поликаунта-2012
+Augury's Guardian — Хранитель пророчеств
+Black Pool Watcher — Хранитель Черного озера
+Blueheart Spotter — Смотретель Голубого Сердца
+Bottom Watcher — Хранитель глубин
+Double Vision — Двойное видение
+Eye of the Ozkavosh — Глаз озкавоша
+Eyeball Fetish — Одноглазый оберег
+Hellgazer — Адский дозорный
+Nightmare Beacon — Осветитель кошмаров
+Ocula the Observer — Окула наблюдатель
+Skywrath Sentinel — Небесный хранитель
+Slayers Glare — Светило воительницы
+Spell Surveyor — Смотритель заклинаний
+Staff of Faith — Посох веры
+Toxic Gaze — Ядовитый дозорный
+
+— HUD Skins —
+Cruel Diretide — Зверский наплыв тьмы
+Curiosity — Любознательность
+Deepest Depths — Глубочайшая пучина
+Direstone — Зловещий камень
+Dragon Scale — Чешуя дракона
+Driftwood — Древесина
+Elder Bark — Древняя кора
+Empowered — Могущество
+Frozen Touch — Простирание льда
+Furnace — Пекло
+Gear Tooth — Зубчатые колеса
+Iron Cage — Железная клетка
+Jungle Ruin — Заросшие развалины
+Malice — Злонравие
+Nature — Природа
+Powered Star — Силовая звезда
+Radiant Ore — Сияющая руда
+Snows of Frostivus — Снега Отморожества
+Stone Ruin — Каменные руины
+Tempest Wing — Крылья бури
+Valor — Доблесть
+
+— Chests —
+Treasure of Champions 2013 — Сундук чемпионов-2013
+Lockless Luckbox — Беззамочный сундук везунчика
+Quirt's Summer Stash — Летний сундук Квирта
+Treasure of Incandescent Wax — Сундук из раскаленного воска
+Treasure of the Malignant Amanita — Сундук зловредного мухомора
+Treasure of the Shaper Divine — Сундук богослова
+Treasure of Rarities — Сундук редкостей
+Treasure of the Cursed Wood — Сундук из проклятого дерева
+Treasure of Crystalline Chaos — Сундук кристаллинового хаоса
+Treasure of the Forbidden Lotus — Сундук запретного лотуса
+Treasure of Dark Implements — Сундук темных обрядов
+Treasure of Tidal Power — Сундук морской мощи
+Treasure of the Restless Sea — Сундук Бурного моря
+Treasure of the Omniscient — Сундук Всезнающего
+Frosty Treasure of Frostivus — Морозный сундук Отморожества
+Treasure of the Silent Grove — Сундук Тихой рощи
+Treasure of the Hunted Dragon — Сундук загнанного дракона
+Treasure of the Twins — Сундук Близнецов
+Ghastly Treasure of Diretide — Жуткий сундук наплыва тьмы
+Treasure of the Wild Claw — Сундук Дикого Когтя
+Timeless Treasure of Claszureme — Вневременный сундук Клазурима
+Treasure of the Rogue Knight — Сундук мятежного рыцаря
+Treasure of Challengers — Сундук претендентов
+Treasure of Champions — Сундук чемпионов
+Treasure of Profound Mysteries — Сундук великих таинств
+The Defense 2 Chest — Сундук Дефенса-2
+Sithil's Summer Stash — Летний сундук Сизила
+Treasure of the High Tide — Сундук приливов
+Treasure of the Ancestor Spirits — Сундук духов предков
+Treasure of the Pangolin GuildMasters — Сундук Панголинских мастеров
+Treasure of the Red Mist — Сундук Красного Тумана
+Treasure of the Deep Druids — Сундук лесных друидов
+Lost Treasure of the Ivory Isles — Потерянный сундук Белых островов
+
+— Bloodstones —
+Bloodstone of the Ancestor — Камень крови предков
+Bloodstone of the Precursor — Камень крови прародителей
+Bloodstone of the Founder — Камень крови родоначальников
+
+— Fantasy Challenge —
+Seer's Bounty — Награда гадателя
+Diviner's Bounty — Награда предсказателя
+Augur's Bounty — Награда ясновидца
+Prophet's Bounty — Награда пророка
