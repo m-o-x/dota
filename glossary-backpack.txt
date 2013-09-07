@@ -93,7 +93,35 @@ Stone Ruin — Каменные руины
 Tempest Wing — Крылья бури
 Valor — Доблесть
 
+— Taunts —
+Beautiful Snowangel — Снежный ангел
+Bo Staff Beckon — Подзывание
+Canonical Blast — Выстрел из пушки
+Celebration of Death — Празднование смерти
+Come and Get It! — Приди и получи!
+Dive! Dive! — 
+Double-Headed Roar — Двуглавый рык
+Face the Juggernaut — 
+Fish Treat — 
+For Death and Honor — За смерть и честь
+Get Burned — Обжигание
+Good Day Sir! — Всего доброго!
+Icemelter — 
+Keep an Ear Out — Будь на чеку
+Murder Lute — Убийственная лютня
+Playful Snowball — Игривый снежок
+Shake Your Money Maker — Потряси пузом
+Sharp Blade — Острый клинок
+Shredding the Lute Invisible — Невидимая лютня
+Sniper's Celebration — Празднование Снайпера
+Spider Shuffle — Танец пауков
+The Magic Ends Here — Конец магии
+Tooting the Horn — 
+Victory Jig — Победный танец
+You! — Ты!
+
 — Chests —
+Treasure of Rubiline Sheen — Сундук рубилинового блеска
 Treasure of Champions 2013 — Сундук чемпионов-2013
 Lockless Luckbox — Беззамочный сундук везунчика
 Quirt's Summer Stash — Летний сундук Квирта
@@ -123,7 +151,7 @@ The Defense 2 Chest — Сундук Дефенса-2
 Sithil's Summer Stash — Летний сундук Сизила
 Treasure of the High Tide — Сундук приливов
 Treasure of the Ancestor Spirits — Сундук духов предков
-Treasure of the Pangolin GuildMasters — Сундук Панголинских мастеров
+Treasure of the Pangolin GuildMasters — Сундук панголинских мастеров
 Treasure of the Red Mist — Сундук Красного Тумана
 Treasure of the Deep Druids — Сундук лесных друидов
 Lost Treasure of the Ivory Isles — Потерянный сундук Белых островов

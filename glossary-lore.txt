@@ -261,6 +261,7 @@ Phantom Veil — Призрачный покров
 Pincher Iron — Пенчерское железо
 Radiant Ore — Сияющая руда
 Riftshadow Crystal — Кристал Ущелья теней
+Rubiline — Рубилин
 Sacred Helm — Священный шлем
 Sacred Orb — Священный шар
 Saw-suit — Пилокостюм

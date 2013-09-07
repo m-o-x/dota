@@ -1,21 +1,27 @@
-﻿— Legendary Sets —
+﻿— Legendary & Immortal Sets —
 Alpine Stalker — Альпийский охотник
-Garments of the Nightsilver Sentinel — Одеяние хранительницы Серебра ночи
+Garments of the Nightsilver Sentinel — Хранительница Серебра ночи
 Rider of the Storm — Всадник бури
 The Great Grey — Грозный серый волк
 
 — Mythical Sets —
+Armor of the Sanguine Moon — Броня багряной Луны
 Attributes of the Foretold — Знамения грядущего
 Dark Ruin — Темные руины
+Dead Winter — Мертвая зима
 Empowered Vestments of the Gods — Могущественное одеяние богов
 Entropic Battlegear of the Warrider — Энтропийная броня всадника
+Featherfall — Перьепад
 Forged in Demons' Blood — Кованый в крови демонов
-Gemmed Armor of the Priest Kings — Украшенная броня королей священников
+Gemmed Armor of the Priest Kings — Украшенная броня королей жрецов
+Inscrutable Zeal — Небывалое усердие
+Peculiar Prestidigitator — Небывалый пройдоха
 Resonant Vibrance — Звучные вибрации
 The Atniw's Fury — Буйство Атнива
 The Demonic Archivist — Демонический архивовед
 The Moon Rider — Лунная всадница
 The Rough Rider of Yama Raskav — Суровый наездник Яма Раскава
+Tools of the Mad Harvester — Орудия безумного жнеца
 Tools of the Haruspex — Орудия гаруспика
 
 — Rare Sets —
@@ -57,7 +63,7 @@ Bessy Batmeleon — Мышелеон Бесси
 BladeBiter — Жалящий меч
 Bow of the Howling Wind — Лук воющего ветра
 Broken Shackles — Разорванные цепи
-Chaos Knight's Armlet of Mordiggian — Нарукавник Мордигиана Рыцаря хаоса
+Chaos Knight's Armlet of Mordiggian — Рыцарский нарукавник Мордигиана
 Crest of the Wyrm Lords — Щит владык драконов
 Crown of the Death Priestess — Корона жрицы смерти
 Dragon Sword — Меч дракона
@@ -79,23 +85,42 @@ Wings of the Ruby Web — Крылья из рубиновой паутины
 Wyvernguard Edge — Клинок убийцы драконов
 
 — Mythical Items —
+A Bit of Boat — Кусок лодки
 Andalmere the Litigon — Тигролев Андальмер
 Bertha the Morde-bat — Смертомышь Берта
+Big Bad Bandana — Широкая бандана
 Buttercup — Лютик
 Call of the Dendrochron — Зов Дендрохрона
+Corpsemaker — Труподел
+Corruptor — Вредитель
+Eye of Omoz — Око оможа
 Feral the Werebat — Мышь-оборотень Дикарь
+Finblade — Меч-плавник
 Fireborn Odachi — Огненнорожденный Одачи
+Flail of the Great Elder — Цеп главы старейшин
 Form of the Onyx Grove — Облик Черной рощи
+Gloomblade — Сумрачный клинок
 Grull the Grim Walker — Темный ходок Грул
 Hellstrider — Адский скакун
+Helm of Infernal Despair — Шлем адского отчаяния
 Ishul-Shog the Watcher  — Смотритель Ишулшог
 Lyralei's Breeze — Бриз Лиралей
 Ormr the Lunar Dragon — Лунный дракон Ормр
+Radiant Claive — Сияющий резак
 Roehrin the Pale Stallion — Бледный жеребец Роерин
 Sanurok the Ever Able — Всемогущий Санурок
+Scythe of Pestilence — Чумная коса
+Spine Splitter — Разрубщик
 Spirit of Calm — Дух спокойствия
+Squiddles — Кальмарик
 The Blood Chaser — Кровопреследователь
+The Blood Shard — Кровавый осколок
+The Horned Mother — Рогатая мать
 The Instagib OSP — Инстагиб ОСП
+The Silent Ripper — Тихая смерть
+Tidehunter Blink Dagger — Клинок телепортации Волнолова
+Twin Serpent Bow — Двоезмеий лук
+Vice of The West — Тлетворное влияние Запада
 
 — Rare Items —
 Aegis of the Storm — Щит бури
