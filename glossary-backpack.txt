@@ -49,6 +49,7 @@ Tinkbot — Мехабот
 Trapjaw the Boxhound — Гончий сундук Острозуб
 Trusty Mountain Yak — Верный горный як
 Waldi the Faithful — Верный Вальди
+Woodchopper — Древогрыз
 Wynchell the Wyrmeleon — Драколеон Винчел
 Yonex's Rage — Ярость Йонекса
 
@@ -74,6 +75,7 @@ Toxic Gaze — Ядовитый дозорный
 Cruel Diretide — Зверский наплыв тьмы
 Curiosity — Любознательность
 Deepest Depths — Глубочайшая пучина
+Dim Forest — Мрачный лес
 Direstone — Зловещий камень
 Dragon Scale — Чешуя дракона
 Driftwood — Древесина
@@ -156,13 +158,16 @@ Treasure of the Red Mist — Сундук Красного Тумана
 Treasure of the Deep Druids — Сундук лесных друидов
 Lost Treasure of the Ivory Isles — Потерянный сундук Белых островов
 
-— Bloodstones —
-Bloodstone of the Ancestor — Камень крови предков
-Bloodstone of the Precursor — Камень крови прародителей
-Bloodstone of the Founder — Камень крови родоначальников
-
 — Fantasy Challenge —
 Seer's Bounty — Награда гадателя
 Diviner's Bounty — Награда предсказателя
 Augur's Bounty — Награда ясновидца
 Prophet's Bounty — Награда пророка
+
+— Bloodstones —
+Bloodstone of the Ancestor — Камень крови предков
+Bloodstone of the Precursor — Камень крови прародителей
+Bloodstone of the Founder — Камень крови родоначальников
+
+— Etc —
+Ascendant Orb — Шар всевластия

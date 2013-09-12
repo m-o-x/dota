@@ -69,3 +69,22 @@ Strange — со странностями
 Completed — в цельном виде
 Haunted — проклятого вида (с проклятьем)
 Tournament — с соревнования
+
+Strange — со странностями
+Unremarkable — 
+Blooded — в крови
+Menacing — 
+Uncharitable — 
+Dangerous — 
+Notably Dangerous — 
+Lethal — 
+Spectacularly Lethal — 
+Blood-Drenched — 
+Gore-Spattered — 
+Wicked Nasty — 
+Positively Inhumane — 
+Face-Melting — 
+Rage-Inducing — 
+Match-Ending — 
+Imba — 
+Utterly Broken — 
