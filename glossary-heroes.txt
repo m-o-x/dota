@@ -46,7 +46,7 @@ Atropos, the Bane
 
 Batrider
 — Наездник
-	Sticky Napalm = Липкий напалм
+	Sticky Napalm = Вязкий напалм
 	Flamebreak = Горючая смесь
 	Firefly = Пламенный полет
 	Flaming Lasso = Огненное лассо
@@ -92,14 +92,14 @@ Mangix, the Brewmaster
 		Permanent Immolation = Вечное горение
 
 Rigwarl, the Bristleback
-— Ригварл, «Иглогрив»
+— Ригварл, иглогрив
 	Viscous Nasal Goo = Вязкая слизь
 	Quill Spray = Веер игл
 	Bristleback = Грива дыбом
 	Warpath = Тропа войны
 
 Black Arachna, the Broodmother
-— Черная вдова, праматерь
+— Черная вдова, прародительница
 	Spawn Spiderlings = Потомство
 	Spin Web = Паутина
 	Incapacitating Bite = Парализующий укус

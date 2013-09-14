@@ -75,7 +75,7 @@ Slom — Слом
 Sunken Isles — Затопленные острова
 The Void — Бездна
 Thousand Tarns — Тысячеболотье
-Trembling Isle — Дрожащий остров
+Trembling Isles — Дрожащие острова
 Turstarkuri — Турстаркури
 Ultimyr Academy — Академия Ультимира
 Underscape — Подземный мир
@@ -135,7 +135,7 @@ King-Mage Sutherex — Король-маг Сутерекс
 Last King of Slom — Последний король Слома
 Linken — Линкен
 Lion of the Moon — Лунный лев
-Maelrawn the Tentacular — Мелрон Щупальцеликий
+Maelrawn the Tentacular, the Lurker in the Whirlpool — Мелрон Щупальцеликий, Око водоворота
 Maraxiform — Мараксиформ
 Midas — Мидас
 Monkey King — Царь обезьян
