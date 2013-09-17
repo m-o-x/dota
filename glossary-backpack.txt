@@ -1,5 +1,6 @@
 ﻿— Couriers —
 Alphid of Lecaciida — Лекациида Альфид
+Arnabus the Fairy Rabbit — Волшебный кролик Арнабус
 Baby Roshan — Рошанчик
 Blotto and Stick — Блотто с палкой
 Braze the Zonkey — Зишак Брейз
@@ -123,6 +124,7 @@ Victory Jig — Победный танец
 You! — Ты!
 
 — Chests —
+Emerald Polycount Collection — Изумрудная коллекция Поликаунта
 Treasure of Rubiline Sheen — Сундук рубилинового блеска
 Treasure of Champions 2013 — Сундук чемпионов-2013
 Lockless Luckbox — Беззамочный сундук везунчика

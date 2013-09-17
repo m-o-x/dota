@@ -43,6 +43,7 @@ Knollen — Кноллен
 Land Behind the Wall — Мир за Стеной
 Lordran — Лордран
 Lost Hills — Забытые холмы
+Manglewood Forest — Мангровый лес
 Mountain Joerlak — Гора Йорлак
 Mount Pyrotheos — Гора Пиротеос
 Narrow Channel — Узкий пролив
@@ -94,7 +95,7 @@ Zaru'Kina — Зарукина
 — Characters —
 Abzidian the Demon-Smith — Демон-кузнец Абзидиан
 Akakiryu of a Thousand Faces — Тысячеликий Акакирю
-Al-Fusha — Ал-Фуша
+Al-Fusha — Аль-Фуша
 Ambinderath the Undead Dragon — Мертвый дракон Амбиндерат
 Ancient Sovereign — Древний правитель
 Anhil — Анхил

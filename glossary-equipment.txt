@@ -87,6 +87,7 @@ Wyvernguard Edge — Клинок убийцы драконов
 — Mythical Items —
 A Bit of Boat — Кусок лодки
 Andalmere the Litigon — Тигролев Андальмер
+Arc of Manta — Лезвие Манты
 Bertha the Morde-bat — Смертомышь Берта
 Big Bad Bandana — Широкая бандана
 Buttercup — Лютик
@@ -105,6 +106,7 @@ Hellstrider — Адский скакун
 Helm of Infernal Despair — Шлем адского отчаяния
 Ishul-Shog the Watcher  — Смотритель Ишулшог
 Lyralei's Breeze — Бриз Лиралей
+Obsidian Golem — Обсидиановый голем
 Ormr the Lunar Dragon — Лунный дракон Ормр
 Radiant Claive — Сияющий резак
 Roehrin the Pale Stallion — Бледный жеребец Роерин
@@ -125,7 +127,17 @@ Vice of The West — Тлетворное влияние Запада
 — Rare Items —
 Aegis of the Storm — Щит бури
 Ataxia — Атаксия
+Diffusal Lance — Рассеивающее копье
+Enchanted Manglewood Staff — Зачарованный мангровый посох
+End of Order — Закат порядка
+Izoku — Идзоку
+Last Judgment — Последний суд
+Luminous Edge — Ясный клинок
+Mistblade — Туманный клинок
+Mistral Braid — Мистральный ободок
 Morcant — Моркант
+Star of Silence — Звезда тишины
+Style of the Occult Protector — Прическа защитницы культа
 Stormthrasher — Громобой
 Spirit of the Atniw — Дух Атнива
 The Stinger — Жало
