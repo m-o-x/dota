@@ -21,24 +21,31 @@ The Atniw's Fury — Буйство Атнива
 The Demonic Archivist — Демонический архивовед
 The Moon Rider — Лунная всадница
 The Rough Rider of Yama Raskav — Суровый наездник Яма Раскава
+The Third Insight — Третье озарение
 Tools of the Mad Harvester — Орудия безумного жнеца
 Tools of the Haruspex — Орудия гаруспика
 
 — Rare Sets —
 Armored Exoskeleton — Бронескелет
+Chained Mistress — Окованная госпожа
+Deep Warden Haul — Трофеи глубинного стража
 Dressings of the First Light — Наряд Первого света
 Embers of Endless Havoc — Зола Вечного разгрома
 Flight of the Sparrowhawk — Полет воробьястреба
+Gift of the Sea — Дары моря
 Of Ebony and Ivory — Черного и белого
 Relics of the Putrid Pontiff — Реликвии Чумного жреца
+Sacred Orb — Священный шар
 Starlight — Свет звезд
 The Mage Slayer — Убийца магов
+Throes of Anguish — Агония страданий
 
 — Uncommon Sets —
 Flamestitched Suitings — Огнетканный наряд
 Wicked Succubus — Порочный суккуб
 
 — Common Sets —
+Bonds of Vincere — Узы победы
 Gunslinger — Опытный стрелок
 Wicked Bad — Темный целитель
 
@@ -55,74 +62,75 @@ Whalehook — Китокрюк
 — Ancient Items —
 
 — Legendary Items —
-Aether-Wings — Эфирные крылья
 Arcane Staff of the Ancients — Чародейский посох Древних
 Battlefury — Топор ярости
-Berserker’s Witchslayer — Ведьморез берсерка
 Bessy Batmeleon — Мышелеон Бесси
-BladeBiter — Жалящий меч
-Bow of the Howling Wind — Лук воющего ветра
-Broken Shackles — Разорванные цепи
-Chaos Knight's Armlet of Mordiggian — Рыцарский нарукавник Мордигиана
-Crest of the Wyrm Lords — Щит владык драконов
-Crown of the Death Priestess — Корона жрицы смерти
-Dragon Sword — Меч дракона
-The Dreaded Forgewing — Зловещий сталекрыл
-Flowering Treant — Цветущий треант
-Frost Owl's Beacon — Светило Ледяной совы
-Heaven-Piercing Pauldrons — Пронзающие небеса наплечники
-Kantusa the Script Sword — Расписанный меч Кантýса
-Kunkka's Shadow Blade — Клинок теней Кункки
-Nyx Assassin's Dagon — Дагон Служителя Никсы
-Prisoner's Anchor — Кандалы заключенного
 Rampant the Scaled Hunter — Чешуйчатый охотник Буян
-Recluse Reef Denizen — Обитатель Одинокого рифа
 Rotten Stache — Поганые усы
-Scythe of Vyse — Коса Вайза
-Skull of Xahryx — Череп Ксарикса
 Stryff the Owlion — Соволев Стриф
 Wings of the Ruby Web — Крылья из рубиновой паутины
-Wyvernguard Edge — Клинок убийцы драконов
 
 — Mythical Items —
 A Bit of Boat — Кусок лодки
+Admiral's Prow — Адмиральский нос судна
+Aether-Wings — Эфирные крылья
 Andalmere the Litigon — Тигролев Андальмер
 Arc of Manta — Лезвие Манты
 Bertha the Morde-bat — Смертомышь Берта
+Berserker’s Witchslayer — Ведьморез берсерка
 Big Bad Bandana — Широкая бандана
+BladeBiter — Жалящий меч
+Bow of the Howling Wind — Лук воющего ветра
+Broken Shackles — Разорванные цепи
 Buttercup — Лютик
 Call of the Dendrochron — Зов Дендрохрона
+Chaos Knight's Armlet of Mordiggian — Рыцарский нарукавник Мордигиана
 Corpsemaker — Труподел
 Corruptor — Вредитель
+Crest of the Wyrm Lords — Щит владык драконов
+Crown of the Death Priestess — Корона жрицы смерти
+Dragon Sword — Меч дракона
 Eye of Omoz — Око оможа
 Feral the Werebat — Мышь-оборотень Дикарь
 Finblade — Меч-плавник
 Fireborn Odachi — Огненнорожденный Одачи
 Flail of the Great Elder — Цеп главы старейшин
+Flowering Treant — Цветущий треант
+Frost Owl's Beacon — Светило Ледяной совы
 Form of the Onyx Grove — Облик Черной рощи
 Gloomblade — Сумрачный клинок
 Grull the Grim Walker — Темный ходок Грул
+Heaven-Piercing Pauldrons — Пронзающие небеса наплечники
 Hellstrider — Адский скакун
 Helm of Infernal Despair — Шлем адского отчаяния
 Ishul-Shog the Watcher  — Смотритель Ишулшог
+Kantusa the Script Sword — Расписанный меч Кантýса
+Kunkka's Shadow Blade — Клинок теней Кункки
 Lyralei's Breeze — Бриз Лиралей
+Nyx Assassin's Dagon — Дагон Служителя Никсы
 Obsidian Golem — Обсидиановый голем
 Ormr the Lunar Dragon — Лунный дракон Ормр
+Prisoner's Anchor — Кандалы заключенного
 Radiant Claive — Сияющий резак
+Recluse Reef Denizen — Обитатель Одинокого рифа
 Roehrin the Pale Stallion — Бледный жеребец Роерин
 Sanurok the Ever Able — Всемогущий Санурок
 Scythe of Pestilence — Чумная коса
+Scythe of Vyse — Коса Вайза
+Skull of Xahryx — Череп Ксарикса
 Spine Splitter — Разрубщик
 Spirit of Calm — Дух спокойствия
 Squiddles — Кальмарик
 The Blood Chaser — Кровопреследователь
 The Blood Shard — Кровавый осколок
+The Dreaded Forgewing — Зловещий сталекрыл
 The Horned Mother — Рогатая мать
 The Instagib OSP — Инстагиб ОСП
 The Silent Ripper — Тихая смерть
 Tidehunter Blink Dagger — Клинок телепортации Волнолова
 Twin Serpent Bow — Двоезмеий лук
 Vice of The West — Тлетворное влияние Запада
+Wyvernguard Edge — Клинок убийцы драконов
 
 — Rare Items —
 Aegis of the Storm — Щит бури
