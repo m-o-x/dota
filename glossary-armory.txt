@@ -56,6 +56,7 @@ Yonex's Rage — Ярость Йонекса
 
 — Wards —
 2012 Polycount Ward — Маячок Поликаунта-2012
+Aperture Science Wardcore — Маячковое ядро Лаборатории
 Augury's Guardian — Хранитель пророчеств
 Black Pool Watcher — Хранитель Черного озера
 Blueheart Spotter — Смотретель Голубого Сердца
@@ -75,7 +76,7 @@ Toxic Gaze — Ядовитый дозорный
 — HUD Skins —
 Cruel Diretide — Зверский наплыв тьмы
 Curiosity — Любознательность
-Deepest Depths — Глубочайшая пучина
+Deepest Depths — Бездонная пучина
 Dim Forest — Мрачный лес
 Direstone — Зловещий камень
 Dragon Scale — Чешуя дракона
@@ -94,6 +95,7 @@ Radiant Ore — Сияющая руда
 Snows of Frostivus — Снега Отморожества
 Stone Ruin — Каменные руины
 Tempest Wing — Крылья бури
+Underwater — Глубина
 Valor — Доблесть
 
 — Taunts —

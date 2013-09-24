@@ -43,6 +43,7 @@ Knollen — Кноллен
 Land Behind the Wall — Мир за Стеной
 Lordran — Лордран
 Lost Hills — Забытые холмы
+Mad Moon — Безумная Луна
 Manglewood Forest — Мангровый лес
 Mountain Joerlak — Гора Йорлак
 Mount Pyrotheos — Гора Пиротеос
@@ -102,7 +103,7 @@ Anhil — Анхил
 Anzar-Anzuli'i — Анзар-Анзулий
 Armageddon — Армагеддон
 Atniw — Атнив
-Atos, the Lord of Blight — Атос, властелин уныния
+Atos, the Lord of Blight — Властелин уныния Атос
 Basilius — Василиос
 Belladonna — Белладонна
 Birot of the Deep Waters — Бирот Глубинноводный
@@ -150,20 +151,23 @@ Omniscience, All Seeing One — Всезнающий, Всевидящий
 Omoz — Омоз
 Pallid Meranth — Бледная Мерант ???
 Ptholopthales the Vizier of Greed — Визирь алчности Птолоптал
+Quirt — Квирт
 Rak-noth Rak-nul — Ракнот Ракнул
+Roquelaire — Роклер
+Roshan — Рошан
 Saberhorn — Саблешлем
 Sagan — Саган
 Sahsk — Саск
 Sea Dragon — Морской дракон
 Selemene, Goddess of the Moon — Богиня Луны Селемена
 Shiva — Шива
+Sithil — Сизил
 Skree'auk — Скриок
 Slyrak — Слайрак
 Solar Goddess — Богиня Солнца
 Soruq the Hunter — Охотник Сорук
-Suicide-Mages of Cladd — Маги-самоубийцы из Клада
 Tyrian — Тириан
-Uldorak the Time-Dragon — Ульдорак, дракон времени
+Uldorak the Time-Dragon — Дракон времени Ульдорак
 Verodicia, Goddess of the Woods — Богиня лесов Веродиция
 Vixia the Grand Dragon — Великий дракон Виксия
 Vladimir — Владимир
@@ -217,6 +221,7 @@ Serpent Clan — Клан змей
 Sisters of the Veil, The Veiled Sisters — Сестры Покрова
 Skywrath — Ярость небес
 Slithereen Guard — Ползучие стражи
+Suicide-Mages of Cladd — Маги-самоубийцы из Клада
 Sylvan Guard — Лесные стражи
 Tahlin Watch — Талинские стражи
 Tale-Tellers — Сказители
