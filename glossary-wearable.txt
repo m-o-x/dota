@@ -38,6 +38,7 @@ Relics of the Putrid Pontiff — Реликвии Чумного жреца
 Sacred Orb — Священный шар
 Starlight — Свет звезд
 The Mage Slayer — Убийца магов
+The Red Conqueror — Красный завоеватель
 Throes of Anguish — Агония страданий
 
 — Uncommon Sets —
@@ -75,7 +76,7 @@ A Bit of Boat — Кусок лодки
 Admiral's Prow — Адмиральский нос судна
 Aether-Wings — Эфирные крылья
 Andalmere the Litigon — Тигролев Андальмер
-Arc of Manta — Лезвие Манты
+Arcs of Manta — Лезвия Манты
 Bertha the Morde-bat — Смертомышь Берта
 Berserker’s Witchslayer — Ведьморез берсерка
 Big Bad Bandana — Широкая бандана
@@ -110,6 +111,7 @@ Lyralei's Breeze — Бриз Лиралей
 Nyx Assassin's Dagon — Дагон Служителя Никсы
 Obsidian Golem — Обсидиановый голем
 Ormr the Lunar Dragon — Лунный дракон Ормр
+Plunder of the High Seas — Расхититель Больших морей
 Prisoner's Anchor — Кандалы заключенного
 Radiant Claive — Сияющий резак
 Recluse Reef Denizen — Обитатель Одинокого рифа
@@ -134,21 +136,32 @@ Wyvernguard Edge — Клинок убийцы драконов
 
 — Rare Items —
 Aegis of the Storm — Щит бури
+Ashborn Horns — Рога пеплорожденного
 Ataxia — Атаксия
 Diffusal Lance — Рассеивающее копье
 Enchanted Manglewood Staff — Зачарованный мангровый посох
 End of Order — Закат порядка
+Eye of Niuhi — Глаз Ниухи
+Frozen Stein of the Bar Brawler — Замороженная кружка буяна
+Grievous Grapnel — Мучительный захват
 Izoku — Идзоку
+Kraken's Bane — Убийца кракена
+Laments of the Dead — Стоны мертвых
 Last Judgment — Последний суд
 Luminous Edge — Ясный клинок
+Meadow's Mercy — Милость лугов
 Mistblade — Туманный клинок
 Mistral Braid — Мистральный ободок
 Morcant — Моркант
+Shadow Brand — Теневое клеймо
+Shattered Axe of the Vanquished — Раздробленный топор поверженных
+Staff of Infernal Chaos — Посох адского хаоса
 Star of Silence — Звезда тишины
 Style of the Occult Protector — Прическа защитницы культа
 Stormthrasher — Громобой
 Spirit of the Atniw — Дух Атнива
 The Stinger — Жало
+Trident of the Deep One — Трезубец Глубочайшего
 
 — Uncommon Items —
 Gladys the Light-Bearing Mule — Светоносный мул Гладис

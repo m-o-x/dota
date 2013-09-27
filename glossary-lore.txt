@@ -30,6 +30,7 @@ Halgalareh — Халгаларех
 Hazhadal Barrens — Хажадальская пустошь
 Hidden Temple — Тайный храм
 Highsand — Высокие пески
+High Seas — Большие моря
 Highseat — Верхоседие
 Hoven — Ховен
 Icewrack — Ледобойня
@@ -143,6 +144,7 @@ Midas — Мидас
 Monkey King — Царь обезьян
 Mordiggian — Мордиггиан
 Necro'lic — Некролик
+Niuhi — Ниухи
 Night Terror the Boogeyman — Ночной кошмар, страшилище
 Nova — Нова
 Nyctasha — Никташа
