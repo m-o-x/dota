@@ -701,7 +701,7 @@ Ymir, the Tusk
 — U —
 
 Undying, the Almighty Dirge 
-— Нетленный, бескрайняя скорбь
+— Нетленный, вечная скорбь
 	Decay = Разложение
 	Soul Rip = Терзание душ
 	Tombstone = Могильный камень

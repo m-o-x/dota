@@ -16,6 +16,7 @@ Crey — Крей
 Dark Reef — Темный риф
 Desert of Misrule — Пустыня Мизрул
 Devarque — Деварк
+Dragon — Звезда Дракон
 Ebony Tower — Черная башня
 El'Harath — Эльхарат
 Elze — Эльза
@@ -29,6 +30,7 @@ Gleaming City — Сияющий город
 Halgalareh — Халгаларех
 Hazhadal Barrens — Хажадальская пустошь
 Hidden Temple — Тайный храм
+High Planes — Высокие равнины
 Highsand — Высокие пески
 High Seas — Большие моря
 Highseat — Верхоседие
@@ -109,6 +111,7 @@ Basilius — Василиос
 Belladonna — Белладонна
 Birot of the Deep Waters — Бирот Глубинноводный
 Black King — Черный король
+Boar God — Бог вепрей
 Brag 'Whistlecheeks' Sharpeye — Браг Острозоркий, «Свистун»
 Bramble Lord — Терновый властелин
 Brok and Eitri — Брок и Синдри
@@ -157,7 +160,7 @@ Quirt — Квирт
 Rak-noth Rak-nul — Ракнот Ракнул
 Roquelaire — Роклер
 Roshan — Рошан
-Saberhorn — Саблешлем
+Saberhorn — Саблерог
 Sagan — Саган
 Sahsk — Саск
 Sea Dragon — Морской дракон
@@ -183,7 +186,7 @@ Yando — Яндо
 Aqwanderers — Водопутники
 Army of Red Mist — Армия Красного тумана
 Bear Clan — Клан медведей
-Bladebreaker Order — Орден Мечеломов
+Bladebreaker Order — Орден мечеломов
 Bloodmist Army — Армия Кровавого тумана
 Bonehunters — Охотники за костями
 Boreal Watch — Северный дозор
@@ -249,7 +252,7 @@ Black Grimoire — Черный гримуар
 Candral-Flower — Лунный цветок
 Chronite — Хронит
 Chronoptic Crystals — Хроноптические кристаллы
-Cristaline — Кристалин
+Cristalline — Кристаллин
 Demon Star — Дьявольская звезда
 Direstone — Зловещий камень
 Divine Throne — Священный трон
@@ -266,8 +269,9 @@ Nemesis Stones — Камни вечной борьбы
 Nest of Thorns — Шипастое гнездо
 Outcast Blade — Меч изгоя
 Phantom Veil — Призрачный покров
-Pincher Iron — Пенчерское железо
+Pincher Iron — Щиплющее железо
 Radiant Ore — Сияющая руда
+Ragestone — Камень ярости
 Riftshadow Crystal — Кристал Ущелья теней
 Rubiline — Рубилин
 Sacred Helm — Священный шлем

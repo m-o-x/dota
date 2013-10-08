@@ -38,6 +38,7 @@ Osky the Ottragon — Отрагон Оски
 Porcine Princess Penelope — Принцесса поросят Пенелопа
 Prismatic Drake — Призматический дракон
 Ramnaught of Underwool — Баранавт из Подшерстья
+Scuttling Scotty — Торопливый Скотти
 Shagbark — Древолай
 Skip the Delivery Frog — Посыльная лягушка Прыг
 Smeevil — Смивил
@@ -87,15 +88,18 @@ Empowered — Могущество
 Frozen Touch — Простирание льда
 Furnace — Пекло
 Gear Tooth — Зубчатые колеса
+Golden Treasures — Золотые сокровища
 Iron Cage — Железная клетка
 Jungle Ruin — Заросшие развалины
 Malice — Злонравие
 Nature — Природа
+Omen — Знамение
 Powered Star — Силовая звезда
 Radiant Ore — Сияющая руда
 Snows of Frostivus — Снега Отморожества
 Stone Ruin — Каменные руины
 Tempest Wing — Крылья бури
+Tremor — Колебание
 Underwater — Глубина
 Valor — Доблесть
 
