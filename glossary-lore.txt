@@ -117,7 +117,7 @@ Bramble Lord — Терновый властелин
 Brok and Eitri — Брок и Синдри
 Castor Twin-Tusks — Кастор Двуклыкий
 Commander of the Abyss — Командир Бездны
-Crymson Wyvern — Багровый дракон
+Crimson Wyvern — Багровый дракон
 Dead God, Unliving Lord — Мертвый бог
 Deep Ones — Глубочайшие
 Dero — Деро
@@ -201,7 +201,6 @@ Deep Vault Guardians — Хранители тайника
 Demons of the Cataract — Демоны водопада
 Dezun Order — Орден Дезун
 Dynasty of Tahlin — Династия Талин
-Flameguard Sect — Секта Хранителей пламени
 Frost Brigade — Ледяная дружина
 Frostiron Tribe — Племя Ледяной Стали
 Gorgon — Горгоны
@@ -215,7 +214,6 @@ Kuur-Ishiminari Craft-Clan — Клан ремесленников Куур-Иш
 Legion of the Dead God — Легион Мертвого бога
 Magus Order — Орден чародеев
 Meranthic Diaspora — Диаспора морских жителей
-Mono Militis Sect — Секта Моно Милитис
 Order of the Aeol Drias — Орден Эол Дриас
 Order of the Oyo — Орден Ойо
 Order of the Stormrider — Орден Всадников бури
@@ -239,6 +237,11 @@ Vigil Knights — Рыцари Дозора
 Vile Council — Презренный совет
 Wyvernguard — Убийцы драконов
 
+— Vigil Knights —
+Chiseled Guard — Точеные стражи
+Flameguards — Хранители пламени
+Mono Militis — Единое ополчение
+
 — Magus Order —
 Arsenal Magus Carl — Запасливый чародей Карл
 Dread Magus Vorn — Чудовищный чародей Ворн
@@ -260,6 +263,7 @@ Dragon Star — Драконовая звезда
 Dreadwood — Кошмарное древо
 Font of Avernus — Купель Аверна
 Holy Flame — Святое пламя
+Hornwood — Рогодрево
 Golden Trove — Золотой кубок
 Mad Moon — Безумная Луна
 Mad Scepter — Безумный скипетр
