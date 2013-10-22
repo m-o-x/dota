@@ -54,7 +54,7 @@ Mythical — мифического типа
 Legendary — легендарного типа
 Ancient — древнего типа
 Immortal — бессмертного типа
-Arcana — чародейского типа
+Arcana — волшебного типа
 
 Base — 
 Standard — 

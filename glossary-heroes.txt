@@ -99,7 +99,7 @@ Rigwarl, the Bristleback
 	Warpath = Тропа войны
 
 Black Arachna, the Broodmother
-— Черная вдова, прародительница
+— Черная вдова, паучиха
 	Spawn Spiderlings = Потомство
 	Spin Web = Паутина
 	Incapacitating Bite = Парализующий укус
@@ -143,7 +143,7 @@ Rattletrap, the Clockwerk
 	Hookshot = Аркан
 
 Rylai, the Crystal Maiden
-— Рилай, кристальная дева
+— Рилей, кристальная дева
 	Crystal Nova = Ледяной взрыв
 	Frostbite = Обморожение
 	Arcane Aura = Колдовская аура
@@ -558,7 +558,7 @@ Crixalis, the Sand King
 
 Dragonus, the Skywrath Mage
 — Драгонус, небесный маг
-	Arcane Bolt = Чародейский заряд
+	Arcane Bolt = Колдовской заряд
 	Concussive Shot = Ошеломляющий выстрел
 	Achient Seal = Древняя печать
 	Mystic Flare = Загадочное сияние
@@ -594,7 +594,7 @@ Nortrom, the Silencer
 Ostarion, the Skeleton King
 — Остарион, костяной король
 	Hellfire Blast = Адское пламя
-	Vampiric Aura = Аура вампиризма
+	Vampiric Aura = Вампирская аура
 	Mortal Strike = Смертельный удар
 	Reincarnation = Перерождение
 
@@ -684,8 +684,8 @@ Rooftrellen, the Treant Protector
 	Living Armor = Живая броня
 	Overgrowth = Разрастание
 
-Ja'rakal, the Troll Warlord
-— Джа'Ракал, повелитель троллей
+Jah'rakal, the Troll Warlord
+— Джаракал, повелитель троллей
 	Berserker Rage = Ярость берсерка
 	Whirling Axes = Вихрь топоров
 	Fervor = Рвение

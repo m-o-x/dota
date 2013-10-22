@@ -57,12 +57,13 @@ Wynchell the Wyrmeleon — Драколеон Винчел
 Yonex's Rage — Ярость Йонекса
 
 — Wards —
-2012 Polycount Ward — Маячок Поликаунта-2012
-Aperture Science Wardcore — Маячковое ядро Лаборатории
+2012 Polycount Ward — Страж Поликаунта-2012
+Aperture Science Wardcore — Сторожевое ядро Лаборатории
 Augury's Guardian — Хранитель пророчеств
 Black Pool Watcher — Хранитель Черного озера
 Blueheart Spotter — Смотретель Голубого Сердца
 Bottom Watcher — Хранитель глубин
+Celestial Observatory — Небесная обсерватория
 Double Vision — Двойное видение
 Eye of the Ozkavosh — Глаз озкавоша
 Eyeball Fetish — Одноглазый оберег
@@ -74,6 +75,7 @@ Slayers Glare — Светило воительницы
 Spell Surveyor — Смотритель заклинаний
 Staff of Faith — Посох веры
 Toxic Gaze — Ядовитый дозорный
+Warding Guise — Наблюдательный облик
 
 — HUD Skins —
 Cruel Diretide — Зверский наплыв тьмы

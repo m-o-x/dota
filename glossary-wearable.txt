@@ -37,12 +37,14 @@ Ancestral Trappings — Родовой наряд
 Ancient Armor — Древняя броня
 Apocalyptic Fire — Пламя апокалипсиса
 Arctic Hunter — Полярный охотник
+Ardor of the Scarlet Raven — Пыл багрового ворона
 Armaments of Leviathan — Вооружение левиафана
 Armored Exoskeleton — Бронескелет
 Arms of Retribution — Доспехи возмездия
 Arms of the Bladebreaker Order — Доспехи ордена мечеломов
 Arms of the Bramble Lord — Доспехи Тернового властелина
 Arms of the Deep Vault Guardian — Доспехи хранителя тайника
+Arms of the Gwimyeon Warrior — Доспехи воина Гвимьеона
 Arms of the Penitent Nomad — Доспехи кающегося кочевника
 Armor of the Flameguard — Броня хранителя пламени
 Aspects of Summer — Красота лета
@@ -68,6 +70,7 @@ Dark Wraith — Темное видение
 Deep Warden Haul — Трофеи глубинного стража
 Designs of the Slithereen Nobility — Одеяние ползучей знати
 Dressings of the First Light — Наряд Первого света
+Eki Spiritual Implements — Духовные орудия Эки 
 Eldritch Ice — Зловещий лед
 Embers of Endless Havoc — Зола Вечного разгрома
 Ember Tipped Carapace — Опаленный панцирь
@@ -81,6 +84,7 @@ Garments of the Peace-Bringer — Облачение вестника мира
 Gear of the Red Talon — Облачение Красного Когтя
 Gift of the Sea — Дары моря
 Gear of the Tally-Ho Hunter — Амуниция зверолова
+Guardian of Silence — Хранитель тишины
 Harbinger of the Inauspicious Abyss — Предвестник бескрайней бездны
 Heart of the North — Сердце севера
 Heavy Armor of the World Runner — Тяжелая броня миробежца
@@ -92,6 +96,7 @@ Instruments of the Claddish Voyager — Орудия кладдского мор
 Jewel of the Forest — Лесное сокровище
 Light of the Solar Divine — Свет богини Солнца
 Malicious Efflorescence — Зловредное цветение
+Mnemonus Arcanus — Колдовские знания
 Northern Wind — Северный ветер
 Of Ebony and Ivory — Черного и белого
 Penumbral Vesture — Сумрачное одеяние
@@ -109,6 +114,7 @@ Saberhorn's Armor — Броня Саблерога
 Sacred Orb — Священный шар
 Spoils of the Bone Ruins — Останки костяных руин
 Starlight — Свет звезд
+Steelweb of Pytheos — Стальная паутина Питеоса
 Stoneshard Majesty — Величие каменных осколков
 The Ancient Sovereign — Древний правитель
 The Aqwanderer — Водный странник
@@ -118,6 +124,7 @@ The Bonehunter — Костяной охотник
 The Bone Scryer — Гадательница на костях
 The Boreal Watch — Северный дозор
 The Burden of Eleven Curses — Бремя одиннадцати проклятий
+The Clergy Ascetic — Духовный аскет
 The Commendable Commodore — Почтенный командор
 The Conquering Tyrant — Тиран завоеватель
 The Corpse Maiden — Мертвая дева
@@ -164,6 +171,7 @@ Twisted Wisdom — Запутанная мудрость
 Uldorak's Hide — Шкура Ульдорака
 Viridi Inanitas — Зеленая пустота
 Warrior of the Steppe — Воин степи
+Web of Thorns — Шипастая паутина
 Whispering Dead — Шепот мертвых
 Wings of the Gilded Falcon — Крылья парящего сокола
 Winter Snowdrop — Зимняя снежинка
@@ -183,6 +191,7 @@ Flamestitched Suitings — Огнетканный наряд
 Hardened Hunter — Закаленный охотник
 Heartwood Vanguard — Боец сердца леса
 Heavy Steel Armor — Тяжелая стальная броня
+Highborn Reckoning — Расплата великородного
 Honors of the Golden Mane — Почести Златогрива
 Luminary of the Dreadful Abyss — Светило кошмарной бездны
 Master of Beast and Bole — Хозяин зверей и лесов
@@ -248,7 +257,7 @@ Whalehook — Китокрюк
 — Ancient Items —
 
 — Legendary Items —
-Arcane Staff of the Ancients — Чародейский посох Древних
+Arcane Staff of the Ancients — Колдовской посох Древних
 Battlefury — Топор ярости
 Bessy Batmeleon — Мышелеон Бесси
 Rampant the Scaled Hunter — Чешуйчатый охотник Буян
