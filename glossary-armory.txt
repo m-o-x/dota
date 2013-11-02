@@ -1,6 +1,7 @@
 ﻿— Couriers —
 Alphid of Lecaciida — Лекациида Альфид
 Arnabus the Fairy Rabbit — Волшебный кролик Арнабус
+Azuremir — Лазуремир
 Baby Roshan — Рошанчик
 Baekho — Баехо
 Blotto and Stick — Блотто с палкой
@@ -187,3 +188,4 @@ Ascendant Orb — Шар всевластия
 Bloodstone of the Ancestor — Камень крови предков
 Bloodstone of the Precursor — Камень крови прародителей
 Bloodstone of the Founder — Камень крови родоначальников
+Gem of Taegeuk — Самоцвет тхэгыка

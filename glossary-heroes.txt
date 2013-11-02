@@ -844,8 +844,8 @@ Auroth, the Winter Wyvern
 Kaolin, the Earth Spirit
 — Каолин, дух земли
 	Stone Caller = Призыватель камней
-	Rolling Boulder = Катящийся валун
 	Boulder Smash = Удар валуна
+	Rolling Boulder = Катящийся валун
 	Geomagnetic Grip = Геомагнитный захват
 	Magnetize = Намагничивание
 

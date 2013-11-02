@@ -62,7 +62,9 @@ Ceremonial Carapace of Qaldin — Обрядовый панцирь Калдин
 Chained Mistress — Окованная госпожа
 Chained Slayers — Цепные убийцы
 Chains of the Summoned Lord — Оковы призванного владыки
+Chosen Larva — Избранная личинка
 Chronite Defense — Хронитовая защита
+Cloud Forged Battle Gear — Облакотканые доспехи
 Commander's Armor of the Flameguard — Командирская броня хранителя пламени
 Councilor's Raiment — Одеяние наставника
 Crypt Guardian — Хранитель склепа
@@ -94,6 +96,7 @@ Impending Transgressions — Грядущее грехопадение
 Implements of the Tahlin Watch — Орудия талинских стражей
 Instruments of the Claddish Voyager — Орудия кладдского мореплавателя
 Jewel of the Forest — Лесное сокровище
+Jewels of Teardrop Ice — Каплевидный лед
 Light of the Solar Divine — Свет богини Солнца
 Malicious Efflorescence — Зловредное цветение
 Mnemonus Arcanus — Колдовские знания
@@ -133,6 +136,7 @@ The Deadly Nightshade — Смертоносная тень
 The Dials of Claszureme — Приемники Клазурима
 The Drunken Warlord — Пьяный командир
 The Ephemeral Haunt — Мимолетное видение
+The Exiled Ronin — Изгнанный ронин
 The Gallows Understudy — Воспитанник палачей
 The Gifts of Yoskreth — Дары Йоскрета
 The Hare Hunt — Охота на кроликов
@@ -233,6 +237,7 @@ Direstone Bindings — Зловещекаменные доспехи
 Eternal Light — Вечный свет
 Fashion of the Scorching Princess — Одеяние пылающей принцессы
 Gunslinger — Опытный стрелок
+Hunter of the Blood Stained Sands — Охотник обагренных пустынь
 Old Ironsides — Старый броненосец
 Radiant Crystal Bindings — Сияющекристалльные доспехи
 Revered Arms — Почтенное вооружение
