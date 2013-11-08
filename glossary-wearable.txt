@@ -246,6 +246,7 @@ Shards of the Falling Comet — Осколки падающей кометы
 The Berserker's Blood — Кровь берсерка
 The Brood Queen — Царица выводка
 Trappings of the Pangolin Guild — Амуниция панголинской гильдии
+Vestments of the Iron Will — Облачение железной воли
 Wicked Bad — Темный целитель
 Wings of the Paladin — Крылья паладина
 
@@ -459,6 +460,7 @@ Wuldastron the Twin-Blade of Giants — Меч гигантов Вулдастр
 Ancient Slithereen Basher — Древний разразитель
 Back Hooks — Спинокрюки
 Barrel Quiver — Колчан из бочки
+Barrier Shard Axe — Топор из осколка Грани
 Bindings of the Rift — Повязки Разлома
 Blade of Cleaving Swiftness — Клинок раздирающей скорости
 Blade of the Dark Ancients — Клинок темных предков

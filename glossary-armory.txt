@@ -29,6 +29,7 @@ Llama Llama — Лама Лама
 Lockjaw the Boxhound — Гончий сундук Замкопаст
 Maximilian the Beetlebear — Медвежук Максимилиан
 Mighty Boar — Могучий хряк
+MLG Scalehound — Чешуйчатая гончая Эм-эл-джи
 Mok — Мок
 Moroks Mechanical Mediary — Механический манипулятор Морока
 Murrissey the Smeevil — Смивил Мурисей
@@ -69,6 +70,7 @@ Double Vision — Двойное видение
 Eye of the Ozkavosh — Глаз озкавоша
 Eyeball Fetish — Одноглазый оберег
 Hellgazer — Адский дозорный
+MLG Tethered Sentinel — Неподвижный страж Эм-эл-джи
 Nightmare Beacon — Осветитель кошмаров
 Ocula the Observer — Окула наблюдатель
 Skywrath Sentinel — Небесный хранитель
@@ -77,6 +79,7 @@ Spell Surveyor — Смотритель заклинаний
 Staff of Faith — Посох веры
 Toxic Gaze — Ядовитый дозорный
 Warding Guise — Наблюдательный облик
+Watchful Sotdae — Бдительный сотте
 
 — HUD Skins —
 Cruel Diretide — Зверский наплыв тьмы
@@ -95,6 +98,7 @@ Golden Treasures — Золотые сокровища
 Iron Cage — Железная клетка
 Jungle Ruin — Заросшие развалины
 Malice — Злонравие
+MLG Stronghold — Крепость Эм-эл-джи
 Nature — Природа
 Omen — Знамение
 Powered Star — Силовая звезда
