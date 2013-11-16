@@ -209,12 +209,28 @@ Raigor Stonehoof, the Earthshaker
 	Aftershock = Повторный удар
 	Echo Slam = Сокрушающий удар
 
+Kaolin, the Earth Spirit
+— Каолинь, дух земли
+	Stone Caller = Призыватель камней
+	Boulder Smash = Удар валуна
+	Rolling Boulder = Катящийся валун
+	Geomagnetic Grip = Геомагнитный захват
+	Stone Remnant = Каменный двойник
+	Magnetize = Намагничивание
+
 Elder Titan, the Worldsmith 
 — Древний титан, мироздатель
 	Echo Stomp = Сотрясающий топот
 	Ancestral Spirit = Дух предков
 	Natural Order = Естество
 	Earth Splitter = Разлом земли
+
+Xin, the Ember Spirit
+— Ксинь, дух пламени
+	Searing Chains = Пылающие оковы
+	Sleight of Fists = Ловкость рук
+	Flame Guard = Пламенный щит
+	Fire Remnant = Огненный двойник
 
 Aiushtha, the Enchantress
 — Аюшта, чаровница
@@ -280,7 +296,7 @@ Io, the Guardian Wisp
 — Ио, светоч
 	Tether = Привязь
 	Spirits = Духи
-	Overcharge = Перегрузка
+	Overcharge = Перезаряд
 	Relocate = Перемещение
 
 — J —
@@ -634,10 +650,10 @@ Barathrum, the Spirit Breaker
 	Nether Strike = Скрытый удар
 
 Raijin Thunderkeg, the Storm Spirit
-— Райджин Громокег, дух бури
-	Static Remnant = Статический остаток
+— Райдзин Громокег, дух грома
+	Static Remnant = Статический двойник
 	Electric Vortex = Электрическая воронка
-	Overload = Перенапряжение
+	Overload = Перегрузка
 	Ball Lightning = Шаровая молния
 
 Sven, the Rogue Knight
@@ -813,13 +829,6 @@ Squee, Spleen and Spoon, the Techies
 	Suicide Squad, Attack! = Отряд самоубийц, в бой!
 	Remote Mines = Управляемые мины
 
-Xin, the Ember Spirit
-— Ксинь, дух огня
-	Searing Chains = Пылающие оковы
-	Sleight of Fist = Ловкость рук
-	Flame Guard = Пламенный щит
-	Fire Remnant = Огненная копия
-
 Tresdin, the Legion Commander
 — Тресдин, командир легиона
 	Overwhelming Odds = Перевес в силах
@@ -840,14 +849,6 @@ Auroth, the Winter Wyvern
 	Splinter Blast = Взрыв осколков
 	Cold Embrace = Объятия холода
 	Winter's Curse = Проклятие зимы
-
-Kaolin, the Earth Spirit
-— Каолин, дух земли
-	Stone Caller = Призыватель камней
-	Boulder Smash = Удар валуна
-	Rolling Boulder = Катящийся валун
-	Geomagnetic Grip = Геомагнитный захват
-	Magnetize = Намагничивание
 
 Nerif, the Oracle
 — Нериф, оракул

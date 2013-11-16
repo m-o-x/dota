@@ -1,5 +1,6 @@
 ﻿— Legendary & Immortal Sets —
 Alpine Stalker — Альпийский охотник
+Dread of the Gleaming Seal — Сияющая печать
 Garments of the Nightsilver Sentinel — Хранительница Серебра ночи
 Rider of the Storm — Всадник бури
 The Great Grey — Грозный серый волк
@@ -7,18 +8,24 @@ The Great Grey — Грозный серый волк
 — Mythical Sets —
 Armor of the Sanguine Moon — Броня багряной Луны
 Arms of Burning Turmoil — Доспехи пылающей смуты
+Artillery of the Crested Cannoneer — Вооружение почетного артиллериста
 Attributes of the Foretold — Знамения грядущего
 Dark Ruin — Темные руины
 Dead Winter — Мертвая зима
+Death Charge — Смертельный разгон
 Empowered Vestments of the Gods — Могущественное одеяние богов
 Entropic Battlegear of the Warrider — Энтропийная броня всадника
 Featherfall — Перьепад
 Forged in Demons' Blood — Кованый в крови демонов
+Formed Alloy — Готовый сплав
+Garb of the Cruel Magician — Наряд жестокого волшебника
 Gemmed Armor of the Priest Kings — Украшенная броня королей жрецов
 Gifts from the Gloom — Дары мглы
+Glacier Duster — Ледниковый пыльник
 Inscrutable Zeal — Небывалое усердие
 Peculiar Prestidigitator — Небывалый пройдоха
 Resonant Vibrance — Звучные вибрации
+Spoils from the Shifting Sorcerer — Трофеи изменчивого волшебника
 The Atniw's Fury — Буйство Атнива
 The Demonic Archivist — Демонический архивовед
 The Moon Rider — Лунная всадница
@@ -26,9 +33,11 @@ The Rough Rider of Yama Raskav — Суровый наездник Яма Рас
 The Third Insight — Третье озарение
 Tools of the Mad Harvester — Орудия безумного жнеца
 Tools of the Haruspex — Орудия гаруспика
+Warrior's Retribution — Возмездие воина
 
 — Rare Sets —
 Acolyte of Clasz — Служитель Клаза
+Adornments of Blight — Убранство порчи
 Alchemy Essentials — Арсенал алхимика
 Alpha Predator — Альфа-хищник
 Ancestors' Pride — Гордость предков
@@ -48,6 +57,7 @@ Arms of the Gwimyeon Warrior — Доспехи воина Гвимьеона
 Arms of the Penitent Nomad — Доспехи кающегося кочевника
 Armor of the Flameguard — Броня хранителя пламени
 Aspects of Summer — Красота лета
+Augur's Curse — Проклятье авгура
 Barathrum's Fury — Ярость Баратрума
 Battleseeker — Зачинщик
 Bindings of Enduring Torment — Доспехи долгих мук
@@ -78,6 +88,7 @@ Embers of Endless Havoc — Зола Вечного разгрома
 Ember Tipped Carapace — Опаленный панцирь
 Emerald Frenzy — Изумрудное буйство
 Flight of the Sparrowhawk — Полет воробьястреба
+Forest Hermit — Лесной отшельник
 Forsaken Beauty — Былая красота
 Frostiron Raider — Погромщик Ледяной Стали
 Frostiron Sorceress — Волшебница Ледяной Стали
@@ -99,6 +110,7 @@ Jewel of the Forest — Лесное сокровище
 Jewels of Teardrop Ice — Каплевидный лед
 Light of the Solar Divine — Свет богини Солнца
 Malicious Efflorescence — Зловредное цветение
+Master Weaver — Главный ткач
 Mnemonus Arcanus — Колдовские знания
 Northern Wind — Северный ветер
 Of Ebony and Ivory — Черного и белого
@@ -113,6 +125,7 @@ Relics of the Putrid Pontiff — Реликвии Чумного жреца
 Remains of the Dreadknight — Останки Ужасного рыцаря
 Riptide Blades — Клинки отбойной волны
 Ritual Garb of the Father Spirits — Ритуальный наряд духов отцов
+Roshan Hunter — Охотник на Рошана
 Saberhorn's Armor — Броня Саблерога
 Sacred Orb — Священный шар
 Spoils of the Bone Ruins — Останки костяных руин
@@ -173,6 +186,7 @@ Tools of the Lost Hills — Орудия Забытых холмов
 Traveler on the High Plains — Скиталец высоких равнин
 Twisted Wisdom — Запутанная мудрость
 Uldorak's Hide — Шкура Ульдорака
+Vestments of the Ten Plagues — Облачение десяти бедствий
 Viridi Inanitas — Зеленая пустота
 Warrior of the Steppe — Воин степи
 Web of Thorns — Шипастая паутина
@@ -200,7 +214,7 @@ Honors of the Golden Mane — Почести Златогрива
 Luminary of the Dreadful Abyss — Светило кошмарной бездны
 Master of Beast and Bole — Хозяин зверей и лесов
 Nomadic Protector — Кочевой заступник
-Redwood Arms — Вооружение из красного дерева
+Redwood Arms — Оружие из красного дерева
 Regalia of the Bonelord — Регалии костяного владыки
 Ritual Garb of the Seeker — Ритуальный наряд искателя
 Scion of the Savage — Наследник лесов
@@ -303,9 +317,11 @@ Frost Owl's Beacon — Светило Ледяной совы
 Form of the Onyx Grove — Облик Черной рощи
 Gloomblade — Сумрачный клинок
 Grull the Grim Walker — Темный ходок Грул
+Hallowed Horde — Тыквенная орда
 Heaven-Piercing Pauldrons — Пронзающие небеса наплечники
 Hellstrider — Адский скакун
 Helm of Infernal Despair — Шлем адского отчаяния
+Hook of the Sorrowful Prey — Крюк потерянной надежды
 Ishul-Shog the Watcher  — Смотритель Ишулшог
 Kantusa the Script Sword — Расписанный меч Кантýса
 Kunkka's Shadow Blade — Клинок теней Кункки
@@ -313,6 +329,7 @@ Lyralei's Breeze — Бриз Лиралей
 Nyx Assassin's Dagon — Дагон Служителя Никсы
 Obsidian Golem — Обсидиановый голем
 Ormr the Lunar Dragon — Лунный дракон Ормр
+Phantom's Reaper — Коса призрака
 Plunder of the High Seas — Расхититель Больших морей
 Prisoner's Anchor — Кандалы заключенного
 Radiant Claive — Сияющий резак
@@ -331,13 +348,17 @@ The Dreaded Forgewing — Зловещий сталекрыл
 The Horned Mother — Рогатая мать
 The Instagib OSP — Инстагиб ОСП
 The Silent Ripper — Тихая смерть
+The Torchbearer — Пламеносец
 Tidehunter Blink Dagger — Клинок телепортации Волнолова
 Twin Serpent Bow — Двоезмеий лук
 Vice of The West — Тлетворное влияние Запада
+Vingspan — Размах
+Winter Solstice Fashion — Стиль идеальной зимы
 Wyvernguard Edge — Клинок убийцы драконов
 
 — Rare Items —
 Aegis of the Storm — Щит бури
+Aethereal Crescent Wand — Неземной серповидный жезл
 Aghanim's Basher — Кистень Аганима
 Ambinderath's Jaw — Пасть Амбиндерата
 Ancient Crasher & Crescent — Древний крушитель и серповидный клинок
@@ -345,25 +366,35 @@ Ancient Mask of Intimidation — Древняя устрашающая маск�
 Ashborn Horns — Рога пеплорожденного
 Aspect Mask of Fulminant Rage — Маска внезапной ярости
 Ataxia — Атаксия
+Auspice of Iczoxtotec — Весть Икзокстотека
 Battle Banner of the Masked — Боевое знамя носящего маску
+Blade of Misery — Клинок скорби
 Blade of the Black Rider — Меч черного всадника
 Blade of Chaos Incarnate — Меч воплощения хаоса
 Bloodstained Britches — Окровавленный комбинезон
+Bloodstone Blades — Клинки из камня крови
 Bow of the Crystal Caves — Лук кристалльных пещер
+Bramblehorn — Терногорн
 Brooch of Death's Bride — Брошь невесты Смерти
 Cercus of Whirling Death — Хвост кружащейся смерти
 Champion's Belly Belt — Пояс чемпиона
+Chronoptic Crown — Хроноптическая корона
 Claive of Unyielding Stone — Твердокаменный меч
+Clergy Warhammer — Духовный боевой молот
 Cold Case Bow — Замораживающий лук
 Cranial Clap Trap — Череподержатель
 Craniomancer — Краниомант
+Crown of Omoz — Корона оможа
 Crown of the Comet's Tail — Корона хвоста кометы
 Crystalline Initio — Кристаллиновый иницио
 Crystalline Sickles — Кристаллиновые серпы
+Dark Tracer — Темный преследователь
 Deathwielder — Несущий смерть
 Demon Claive — Демонский меч
+Demonic Collar — Демонический ворот
 Diffusal Lance — Рассеивающее копье
 Direstone Liferipper — Зловещекаменный потрошитель
+Dorsal Doom — Плавник судьбы
 Dragonblood Ravager — Истребитель драконов
 Elemental Ice Infusion — Проникновение льда
 Enchanted Manglewood Staff — Зачарованный мангровый посох
@@ -374,6 +405,7 @@ Excavator's Decorated Treasure — Украшенное сокровище зе�
 Eye of the Eyrie — Око Гнезда
 Eye of Niuhi — Глаз Ниухи
 Falcon's Rise — Полет сокола
+Fallen Sword — Падший меч
 Fishing Halberd — Рыбацкая алебарда
 Fishy Frillhawk — Рыбий ирокез
 Flying Desolation — Летающий истязатель
@@ -393,13 +425,18 @@ Healing Ward of the Kuur-Ishiminari — Исцеляющий идол Куур-�
 Heat — Жар
 Heavy Tenderizer — Тяжелый отбиватель
 Heirloom of the Temple Priestess — Наследие жрицы храма
+Hellfire Edge — Клинок адского пламени
 Hellish Gemstaff — Адский посох с драгоценным камнем
+Hellthorn Scepter — Скипетр с адским шипом
+Icewrack Pack — Стая ледяных разорителей
 Izoku — Идзоку
 Kraken's Bane — Убийца кракена
 Laments of the Dead — Стоны мертвых
 Last Judgment — Последний суд
+Lighted Scepter of Serendipity — Освещенный скипетр везения
 Luminous Edge — Ясный клинок
 Mask of the Many-Sighted — Маска всевидящего
+Mattock of Distortion — Топор искажения
 Maw of the Devourer — Глотка поглотителя
 Meadow's Mercy — Милость лугов
 Meat Dragger — Мясовоз
@@ -407,8 +444,10 @@ Mistblade — Туманный клинок
 Mistral Braid — Мистральный ободок
 Molten Fracture — Расплавленный меч
 Morcant — Моркант
+Mr. Depth Driller — Господин Буритель
 Nature's Grip — Хватка природы
 Nightmare Blade — Кошмарный клинок
+Piercing Umbrage — Пронзающая горечь
 Possessed Blade — Одержимый клинок
 Pyre — Пламя
 Radiant Crystal Haul — Кладь сияющих кристаллов
@@ -423,9 +462,14 @@ Scythe of Sacrifice — Жертвенная коса
 Shadow Brand — Теневое клеймо
 Shadowshards — Теневые осколки
 Shattered Axe of the Vanquished — Раздробленный топор поверженных
+Shattered Destroyer — Раздробленный уничтожитель
 Shoulder of the Noble — Благородный эполет
+Slashing Quickslicers — Рубящие быстрорезы
+Slicer of the Depths — Глубинный строгальщик
+Spell Devourer — Поглотитель заклятий
 Spikes of Frost — Ледяные пики
 Spinal Slicers — Спинорезы
+Spring's Lilium Crown — Весенняя корона из лилий
 Staff of Infernal Chaos — Посох адского хаоса
 Stalwart Sentinel — Непоколебимый дозорный
 Star of Silence — Звезда тишины
@@ -437,9 +481,12 @@ Spectral Light — Спектральный свет
 Spottin' Goggles — Очки обнаружители
 Sylnashar the Winged Axe — Крылатый топор Сильнашар
 The Azure Shroud — Лазурный покров
+The Celestial Bane — Гроза небес
 The Corrupted Shard — Испорченный осколок
+The Elegant Stroke — Элегантный штрих
 The One Horn — Единый рог
 The Peacebringer — Мирохранитель
+The Savage Orchid — Дикая орхидея
 The Shattered Blade of Levinthal — Сломанный меч Левинтала
 The Shell Slicer — Вскрыватель панцирей
 The Stinger — Жало
@@ -449,9 +496,11 @@ Tribal Megadon Mask — Племенная маска мегадона
 Tribal Totem Mask — Племенная тотемная маска
 Trident of the Deep One — Трезубец Глубочайшего
 Trident of the Sea Stalker — Трезубец морского охотника
+Tsunami Blade — Меч цунами
 Vengeancebound Wings — Крылья отмщения
 Wavecutter — Волногаситель
 Whirling Mind Slicer — Вертящийся рассекатель разума
+Windweave Headband — Ветротканная повязка
 Wolfhound Rifle — Волкодав
 Wraps of the Seasoned Veteran — Повязки закаленного ветерана
 Wuldastron the Twin-Blade of Giants — Меч гигантов Вулдастрон
@@ -537,6 +586,7 @@ Bow of the Searing Soul — Лук пылающей души
 Captain's Hook — Капитанский крюк
 Coat of the Elder Grove — Плащ древней рощи
 Curled Root-Staff — Закрученный корнепосох
+Demonshard — Демонский осколок
 Demon Skull Staff — Посох с черепом демона
 Demon Spine Recurve Bow — Загнутый хребет демона
 Dero's Staff of Sanity — Посох разума Деро
@@ -562,6 +612,7 @@ Markswoman's Cap — Шляпа лучницы
 Meranth Executioner's Blade — Клинок палача меранта
 Merciless Spear — Безжалостное копье
 Metal Horns — Металлические рога
+Monarch — Монарх
 Nature's Shortbow — Короткий лук природы
 Naval Mine — Морская мина
 Omniscient's Maul — Кувалда Всезнающего

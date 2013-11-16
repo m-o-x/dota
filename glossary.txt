@@ -44,6 +44,17 @@ Monster Kill — зверствует
 Godlike — богоподобен
 Beyond Godlike — превзошел богов
 
+All Pick — Все герои
+All Random — Все случайные
+Captain's Draft — Набор капитанов
+Captain's Mode — Режим капитанов
+Least Player — Редкие герои
+Limited Heroes — Простые герои
+Mid Only — Только середина
+Random Draft — Общий набор
+Reverse Draft — Режим наоборот
+Single Draft — Малый набор
+
 Set — комплект
 Bundle, Pack — набор
 
@@ -58,17 +69,17 @@ Arcana — волшебного типа
 
 Base — 
 Standard — 
-Vintage — старой закалки
+Elder — старой закалки
 Community — члена сообщества
 Valve — сотрудника Вальв
 Selfmade — ручной сборки
 Customized — 
 Genuine — высшей пробы
 Unusual — необычного вида
-Strange — со странностями
+Inscribed — со странностями
 Completed — в цельном виде
-Haunted — проклятого вида (с проклятьем)
-Tournament — с соревнования
+Cursed — с проклятьем
+Heroic — героя
 
 Strange — со странностями
 Unremarkable — 
