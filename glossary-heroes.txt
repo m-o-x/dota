@@ -29,7 +29,7 @@ Anti-Mage
 	Mana Void = Губительная пустота
 
 Mogul Khan, the Axe
-— Могол Хан, «Тесак»
+— Могол Хан, «Топор»
 	Berserker's Call = Зов берсерка
 	Battle Hunger = Жажда битвы
 	Counter Helix = Контрудар
@@ -450,9 +450,9 @@ Nature's Prophet
 	Nature's Call = Зов природы
 	Wrath of Nature = Гнев природы
 
-Rotund'jere, the Necrolyte
-— Ротунджер, некролит
-	Death Pulse = Смертельный импульс
+Rotund'jere, the Necrophos
+— Ротунджер, некрофос
+	Death Pulse = Смертельная волна
 	Heartstopper Aura = Убийственная аура
 	Sadist = Садист
 	Reaper's Scythe = Коса Жнеца
@@ -652,7 +652,7 @@ Barathrum, the Spirit Breaker
 Raijin Thunderkeg, the Storm Spirit
 — Райдзин Громокег, дух грома
 	Static Remnant = Статический двойник
-	Electric Vortex = Электрическая воронка
+	Electric Vortex = Электрический вихрь
 	Overload = Перегрузка
 	Ball Lightning = Шаровая молния
 
@@ -776,7 +776,7 @@ Skitskurr, the Weaver
 	Geminate Attack = Двойная атака
 	Time Lapse = Искажение времени
 
-Lyralei, the Windrunner
+Lyralei, the Windranger
 — Лиралей, ветрокрылая
 	Shackleshot = Сковывающий выстрел
 	Powershot = Заряженный выстрел

@@ -44,6 +44,7 @@ Ancestors' Pride — Гордость предков
 Ancestral Luck — Родовое везение
 Ancestral Trappings — Родовой наряд
 Ancient Armor — Древняя броня
+Anointed Armor of Ruination — Омовенная броня погибели
 Apocalyptic Fire — Пламя апокалипсиса
 Arctic Hunter — Полярный охотник
 Ardor of the Scarlet Raven — Пыл багрового ворона
@@ -67,6 +68,7 @@ Blessings of the Wildwing — Благословение дикокрыла
 Bones of the Slain Dragon — Кости поверженного дракона
 Cabalist of Dark Magic — Последователь черной магии
 Carapace of the Hidden Hive — Панцирь Скрытого улья
+Caustic Consumption — Едкое поглощение
 Caustic Steel — Едкая сталь
 Ceremonial Carapace of Qaldin — Обрядовый панцирь Калдина
 Chained Mistress — Окованная госпожа
@@ -180,6 +182,7 @@ The Twisted Arc — Витая дуга
 The Ursine Ravager — Урсиный разоритель
 The Weight of Omexe — Бремя Омекса
 Thousand Faces — Тысяча лиц
+Threads of Entwined Fate — Нити запутанной судьбы
 Thunderwrath's Calling — Зов Громобоя
 Tools of the Demon Witch — Орудия ведьмака
 Tools of the Lost Hills — Орудия Забытых холмов
@@ -259,6 +262,7 @@ Sect Armor of the Mono Militis — Сектантская броня Едино�
 Shards of the Falling Comet — Осколки падающей кометы
 The Berserker's Blood — Кровь берсерка
 The Brood Queen — Царица выводка
+The Second Disciple — Второй последователь
 Trappings of the Pangolin Guild — Амуниция панголинской гильдии
 Vestments of the Iron Will — Облачение железной воли
 Wicked Bad — Темный целитель
