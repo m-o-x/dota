@@ -28,6 +28,7 @@ Resonant Vibrance — Звучные вибрации
 Spoils from the Shifting Sorcerer — Трофеи изменчивого волшебника
 The Atniw's Fury — Буйство Атнива
 The Demonic Archivist — Демонический архивовед
+The Exiled Demonologist — Изгнанный демонолог
 The Moon Rider — Лунная всадница
 The Rough Rider of Yama Raskav — Суровый наездник Яма Раскава
 The Third Insight — Третье озарение
@@ -98,6 +99,7 @@ Garments of the Charred Bloodline — Одеяние пламенного род
 Garments of the Peace-Bringer — Облачение вестника мира
 Gear of the Red Talon — Облачение Красного Когтя
 Gift of the Sea — Дары моря
+Gifts of the Shadowcat — Дары темной кошки
 Gear of the Tally-Ho Hunter — Амуниция зверолова
 Guardian of Silence — Хранитель тишины
 Harbinger of the Inauspicious Abyss — Предвестник бескрайней бездны
@@ -203,6 +205,7 @@ Armor of Sir Davion — Броня сэра Девиона
 Armor of the Purist Champion — Броня поборника пуританства
 Aspects of Beast and Man — Обличие человека и зверя
 Bindings of Frost — Ледяные доспехи
+Bird's Stone — Птичий камень
 Black Blades of the Qaldin Assassin — Черные клинки калдинского убийцы
 Dragon Forged — Драконокованный
 Enchanted Plate of the Crimson Wyvern — Зачарованная броня багрового дракона
@@ -239,6 +242,7 @@ The Hierophant's Protection — Броня иерофанта
 The Iron Bear — Железный медведь
 The Paleogeneous Punisher — Палеогеновый каратель
 The Savage Age — Эпоха дикарей
+The Seers Command — Приказание провидца
 The Slithereen Knight — Ползучий рыцарь
 The Traveling Tale-Teller — Странствующий сказитель
 Wicked Succubus — Порочный суккуб
@@ -295,6 +299,7 @@ Admiral's Prow — Адмиральский нос судна
 Aether-Wings — Эфирные крылья
 Andalmere the Litigon — Тигролев Андальмер
 Arcs of Manta — Лезвия Манты
+Axe of Phractos — Топор неубиваемого
 Bertha the Morde-bat — Смертомышь Берта
 Berserker's Witchslayer — Ведьморез берсерка
 Big Bad Bandana — Широкая бандана
@@ -321,6 +326,7 @@ Frost Owl's Beacon — Светило Ледяной совы
 Form of the Onyx Grove — Облик Черной рощи
 Gloomblade — Сумрачный клинок
 Grull the Grim Walker — Темный ходок Грул
+Guard of the Red Mist — Страж Красного тумана
 Hallowed Horde — Тыквенная орда
 Heaven-Piercing Pauldrons — Пронзающие небеса наплечники
 Hellstrider — Адский скакун
@@ -330,6 +336,7 @@ Ishul-Shog the Watcher  — Смотритель Ишулшог
 Kantusa the Script Sword — Расписанный меч Кантýса
 Kunkka's Shadow Blade — Клинок теней Кункки
 Lyralei's Breeze — Бриз Лиралей
+Monarch Bow — Лук монарха
 Nyx Assassin's Dagon — Дагон Служителя Никсы
 Obsidian Golem — Обсидиановый голем
 Ormr the Lunar Dragon — Лунный дракон Ормр

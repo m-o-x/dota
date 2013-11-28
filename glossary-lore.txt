@@ -82,6 +82,7 @@ The Void — Бездна
 Thousand Tarns — Тысячеболотье
 Trembling Isles — Дрожащие острова
 Turstarkuri — Турстаркури
+Ulmarian — Ульмария
 Ultimyr Academy — Академия Ультимира
 Underscape — Подземный мир
 Upland Druud — Нагорье Друуд
@@ -254,6 +255,7 @@ Grand Magus Rubick — Верховный чародей Рубик
 Ancients — Древние крепости
 Arcane Archives — Чародейская библиотека
 Archronicus — Архроник
+Bird's Stone — Птичий камень
 Black Grimoire — Черный гримуар
 Candral-Flower — Лунный цветок
 Chronite — Хронит
@@ -328,6 +330,7 @@ Oglodi — Оглоди
 Oyoloe — Ойолое
 Ozkavosh — Озкавош
 Pyrexae — Теплохладные
+Shadowcat — Темный кот
 Sparrowhawk — Воробьястреб
 Stormcrow — Буревран
 Tarrasque — Тарраска
