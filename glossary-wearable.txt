@@ -47,6 +47,7 @@ Ancestral Trappings — Родовой наряд
 Ancient Armor — Древняя броня
 Anointed Armor of Ruination — Омовенная броня погибели
 Apocalyptic Fire — Пламя апокалипсиса
+Araceae's Tribute — Дань аронника
 Arctic Hunter — Полярный охотник
 Ardor of the Scarlet Raven — Пыл багрового ворона
 Armaments of Leviathan — Вооружение левиафана
@@ -65,6 +66,7 @@ Battleseeker — Зачинщик
 Bindings of Enduring Torment — Доспехи долгих мук
 Bindings of the Storm-Stealer — Доспехи громокрада
 Birot's Bindings — Панцирь Бирота
+Blessings of the Eternal Eclipse — Благословение вечного затмения
 Blessings of the Wildwing — Благословение дикокрыла
 Bones of the Slain Dragon — Кости поверженного дракона
 Cabalist of Dark Magic — Последователь черной магии
@@ -105,6 +107,7 @@ Guardian of Silence — Хранитель тишины
 Harbinger of the Inauspicious Abyss — Предвестник бескрайней бездны
 Heart of the North — Сердце севера
 Heavy Armor of the World Runner — Тяжелая броня миробежца
+Heavy Barbed Armor — Сильношипастая броня
 Hell's Ambassador — Посланник ада
 Hunter in Distant Sands — Охотник дальних песков
 Impending Transgressions — Грядущее грехопадение
@@ -112,6 +115,7 @@ Implements of the Tahlin Watch — Орудия талинских страже�
 Instruments of the Claddish Voyager — Орудия кладдского мореплавателя
 Jewel of the Forest — Лесное сокровище
 Jewels of Teardrop Ice — Каплевидный лед
+Legacy of the Awakened — Наследие пробужденного
 Light of the Solar Divine — Свет богини Солнца
 Malicious Efflorescence — Зловредное цветение
 Master Weaver — Главный ткач
