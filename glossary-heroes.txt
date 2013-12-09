@@ -93,7 +93,7 @@ Mangix, the Brewmaster
 
 Rigwarl, the Bristleback
 — Ригварл, иглогрив
-	Viscous Nasal Goo = Вязкая слизь
+	Viscous Nasal Goo = Мерзкая слизь
 	Quill Spray = Веер игл
 	Bristleback = Грива дыбом
 	Warpath = Тропа войны
