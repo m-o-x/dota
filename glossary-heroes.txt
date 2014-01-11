@@ -226,7 +226,7 @@ Elder Titan, the Worldsmith
 	Earth Splitter = Разлом земли
 
 Xin, the Ember Spirit
-— Ксинь, дух пламени
+— Синь, дух пламени
 	Searing Chains = Пылающие оковы
 	Sleight of Fists = Ловкость рук
 	Flame Guard = Пламенный щит
@@ -333,12 +333,12 @@ Kunkka, the Admiral
 
 — L —
 
-Lanaya, the Templar Assassin
-— Ланая, храмовница
-	Refraction = Отражение
-	Meld = Слияние
-	Psi Blades = Пси-клинки
-	Psionic Trap = Колдовская ловушка
+Tresdin, the Legion Commander
+— Тресдин, командир легиона
+	Overwhelming Odds = Перевес в силах
+	Press The Attack = Натиск
+	Movement of Courage = Отважный поступок
+	Duel = Дуэль
 
 Leshrac, the Tormented Soul
 — Лешрак, истерзанная душа
@@ -607,13 +607,6 @@ Nortrom, the Silencer
 	Last Word = Последнее слово
 	Global Silence = Всеобщее молчание
 
-Ostarion, the Skeleton King
-— Остарион, костяной король
-	Hellfire Blast = Адское пламя
-	Vampiric Aura = Вампирская аура
-	Mortal Strike = Смертельный удар
-	Reincarnation = Перерождение
-
 Slark, the Nighcrawler
 — Сларк, попрыгун
 	Dark Pact = Темный союз
@@ -665,6 +658,13 @@ Sven, the Rogue Knight
 
 — T —
 
+Lanaya, the Templar Assassin
+— Ланая, храмовница
+	Refraction = Отражение
+	Meld = Слияние
+	Psi Blades = Пси-клинки
+	Psionic Trap = Колдовская ловушка
+
 Leviathan, the Tidehunter
 — Левиафан, волнолов
 	Gush = Всплеск
@@ -673,7 +673,7 @@ Leviathan, the Tidehunter
 	Ravage = Погром
 
 Rizzrak, the Timbersaw
-— Ризрак, резак
+— Ризрак, лесорез
 	Whirling Death = Вертящаяся смерть
 	Timber Chain = Цепь лесника
 	Reactive Armor = Реактивная броня
@@ -790,6 +790,13 @@ Zharvakko, the Witch Doctor
 	Maledict = Порча
 	Death Ward = Тотем смерти
 
+Ostarion, the Wraith King
+— Остарион, призрачный король
+	Wraithfire Blast = Призрачное пламя
+	Vampiric Aura = Вампирская аура
+	Mortal Strike = Смертельный удар
+	Reincarnation = Перерождение
+
 — Z —
 
 Zeus, the Lord of Heaven
@@ -816,7 +823,7 @@ Azgalor, the Abyssal Underlord
 	Dark Rift = Темный портал
 
 Terrorblade, the Soul Keeper
-— Страхорез, похититель душ
+— Террорблейд, похититель душ
 	Reflection = Отражение
 	Conjure Image = Создание иллюзии
 	Metamorphosis = Метаморфоза
@@ -829,13 +836,6 @@ Squee, Spleen and Spoon, the Techies
 	Suicide Squad, Attack! = Отряд самоубийц, в бой!
 	Remote Mines = Управляемые мины
 
-Tresdin, the Legion Commander
-— Тресдин, командир легиона
-	Overwhelming Odds = Перевес в силах
-	Press The Attack = Натиск
-	Movement of Courage = Отважный поступок
-	Duel = Дуэль
-
 Zet, the Arc Warden
 — Зет, усмиритель тока
 	Flux = Прилив
@@ -844,7 +844,7 @@ Zet, the Arc Warden
 	Tempest Double = Усиление бури
 
 Auroth, the Winter Wyvern
-— Орот, зимняя виверна
+— Аурот, зимняя виверна
 	Arctic Burn = Ледяной ожог
 	Splinter Blast = Взрыв осколков
 	Cold Embrace = Объятия холода

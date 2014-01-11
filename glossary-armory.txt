@@ -28,6 +28,7 @@ Gwanji the Thunder Lizard — Громоящер Гванджи
 Hollow Jack — Полый Джек
 Inky the Hexapus — Шестиног Инки
 Itsy — Крохотуля
+Kangdae the Dokkaebi — Токкэби Кандэ
 Kupu the Metamorpher — Метаморфер Купу
 LGD's Golden Skipper — Золотой попрыгун Эл-джи-ди
 Llama Llama — Лама Лама
@@ -50,11 +51,13 @@ Scuttling Scotty — Торопливый Скотти
 Shagbark — Древолай
 Skip the Delivery Frog — Посыльная лягушка Прыг
 Smeevil — Смивил
+Snaggletooth Jerry — Кривозуб Джерри
 Snelfret the Snail — Улитка Снелфрет
 Snowl — Сновушка
 Speed Demon — Демон ярости
 Star Ladder Grillhound — Звездная жарогончая
 Stumpy - Nature's Attendant — Служитель природы Пеня
+The Gama Brothers — Братья Гама
 Throe — Страдание
 Tickled Tegu — Щекотливая Тегу
 Tinkbot — Мехабот
@@ -78,6 +81,7 @@ Double Vision — Двойное видение
 Eye of Lyralei — Око Лиралей
 Eye of the Ozkavosh — Глаз озкавоша
 Eyeball Fetish — Одноглазый оберег
+Frozen Formation — Ледяная конструкция
 Hellgazer — Адский дозорный
 MLG Tethered Sentinel — Неподвижный страж Эм-эл-джи
 Nightmare Beacon — Осветитель кошмаров
@@ -101,6 +105,7 @@ Dragon Scale — Чешуя дракона
 Driftwood — Древесина
 Elder Bark — Древняя кора
 Empowered — Могущество
+Familiar Woods — Знакомые леса
 Frozen Touch — Простирание льда
 Furnace — Пекло
 Gear Tooth — Зубчатые колеса
@@ -115,9 +120,12 @@ Necropolis — Некрополь
 Omen — Знамение
 Powered Star — Силовая звезда
 Radiant Ore — Сияющая руда
+Reign of Maelrawn — Царство Мелрона
 Snows of Frostivus — Снега Отморожества
 Stone Ruin — Каменные руины
 Tempest Wing — Крылья бури
+Thunder Spirit — Дух грозы
+Timber Fury — Ярость лесов
 Tremor — Колебание
 Underwater — Глубина
 Valor — Доблесть
@@ -152,11 +160,14 @@ You! — Ты!
 
 — Gems —
 Ascendant Gem — Влаственный самоцвет
-Autograph Rune — Руна автографа
+Autograph Rune — Руна с автографом
 Ethereal Gem — Эфирный самоцвет
+Foulfell Shard — Скверный осколок
 Inscribed Gem — Надписанный самоцвет
 Kinetic Gem — Подвижный самоцвет
+Mastery Gem — Самоцвет мастерства
 Prismatic Gem — Призменный самоцвет
+Rune of the Duelist Indomitable — Руна неукротимого дуэлянта
 Spectator Gem — Самоцвет наблюдателя
 
 — Ascendant Gems —
@@ -180,6 +191,16 @@ Diviner's Bounty — Награда предсказателя
 Augur's Bounty — Награда ясновидца
 Prophet's Bounty — Награда пророка
 
+— Wraith-Night —
+Shining Fragments — Сияющие фрагменты
+Phantom Fragments — Фантомные фрагменты
+Wraith King's Favor — Милость Призрачного короля
+Wraith King's Relic — Реликт Призрачного короля
+Wraith-Night Feretory — Мощевик Ночи призраков
+Wraith-Night Offering — Подношение Ночи призраков
+Wraith-Night Ossuary — Погребальная урна Ночи призраков
+Wraith-Night Tribute — Дар Ночи призраков
+
 — Other Items —
 Armory Expander — Расширитель арсенала
 Artificer's Brand — Печать мастера
@@ -193,11 +214,13 @@ Seasonal Gift — Сезонный подарок
 Shopkeeper's Surprise — Подарок лавочника
 
 — Chests —
-Ancient Scroll Case — Древний футляр для свитков
+Treasure of the Artisan Enthralled — Сундук покоренного ремесленника
+Welcoming Chest — Приветственный сундук
 Locked Gemstone Cache — Закрытый тайник самоцветов
+Treasure of Heroic Bounty — Сундук геройской награды
 Treasure of Earth Essence — Сундук земной субстанции
 Treasure of Ember Essence — Сундук пламенной субстанции
-Treasure of Heroic Bounty — Сундук геройской награды
+Ancient Scroll Case — Древний футляр для свитков
 Emerald Polycount Collection — Изумрудная коллекция Поликаунта
 Treasure of Rubiline Sheen — Сундук рубилинового блеска
 Treasure of Champions 2013 — Сундук чемпионов-2013
