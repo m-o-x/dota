@@ -54,6 +54,9 @@ Mid Only — Только середина
 Random Draft — Общий набор
 Reverse Draft — Режим наоборот
 Single Draft — Малый набор
+The Greeviling — Отморожество
+Diretide — Пора тьмы
+Wraith-Night — Ночь призраков
 
 Set — комплект
 Bundle, Pack — набор

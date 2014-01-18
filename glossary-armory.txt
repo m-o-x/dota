@@ -80,6 +80,7 @@ Celestial Observatory — Небесная обсерватория
 Double Vision — Двойное видение
 Eye of Lyralei — Око Лиралей
 Eye of the Ozkavosh — Глаз озкавоша
+Eye of Thunderkeg — Око Громокега
 Eyeball Fetish — Одноглазый оберег
 Frozen Formation — Ледяная конструкция
 Hellgazer — Адский дозорный
@@ -123,6 +124,7 @@ Radiant Ore — Сияющая руда
 Reign of Maelrawn — Царство Мелрона
 Snows of Frostivus — Снега Отморожества
 Stone Ruin — Каменные руины
+Surge — Импульс
 Tempest Wing — Крылья бури
 Thunder Spirit — Дух грозы
 Timber Fury — Ярость лесов

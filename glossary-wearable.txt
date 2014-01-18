@@ -77,6 +77,7 @@ Bindings of the Storm-Stealer — Доспехи громокрада
 Birot's Bindings — Панцирь Бирота
 Blessings of the Eternal Eclipse — Благословение вечного затмения
 Blessings of the Wildwing — Благословение дикокрыла
+Bobusang's Traveling Necessities — Необходимые орудия побусана
 Bones of the Slain Dragon — Кости поверженного дракона
 Cabalist of Dark Magic — Последователь черной магии
 Carapace of the Hidden Hive — Панцирь Скрытого улья
@@ -128,17 +129,20 @@ Implements of the Tahlin Watch — Орудия талинских страже�
 Instruments of the Claddish Voyager — Орудия кладдского мореплавателя
 Jewel of the Forest — Лесное сокровище
 Jewels of Teardrop Ice — Каплевидный лед
+Jini the Bright Moon — Чини Сияющая Луна
 Keeper of the Northlight — Хранитель северного света
 Legacy of the Awakened — Наследие пробужденного
 Light of the Solar Divine — Свет богини Солнца
 Malicious Efflorescence — Зловредное цветение
 Master Weaver — Главный ткач
 Mnemonus Arcanus — Колдовские знания
+Nether Lord's Regalia — Регалии властелина Забвения
 Northern Wind — Северный ветер
 Of Ebony and Ivory — Черного и белого
 Outcast of the Deep — Глубинная изгнанница
 Penumbral Vesture — Сумрачное одеяние
 Pirate's Booty — Пиратские трофеи
+Radiant Protector — Заступник Света
 Raiment of the Chiseled Guard — Одеяние Точеного стража
 Red Conqueror — Красный завоеватель
 Red Mist Reaper — Жнец Красного тумана
@@ -153,6 +157,7 @@ Roshan Hunter — Охотник на Рошана
 Rune Forged — Рунокованный
 Saberhorn's Armor — Броня Саблерога
 Sacred Orb — Священный шар
+Shadow Hunter — Теневой охотник
 Spirit of the Howling Wolf — Дух воющего волка
 Spoils of the Bone Ruins — Останки костяных руин
 Starlight — Свет звезд
@@ -225,6 +230,7 @@ Wings of Obelis — Крылья Обелис
 Wings of the Gilded Falcon — Крылья парящего сокола
 Winter Snowdrop — Зимняя снежинка
 Wrath of the Blood Covenant — Гнев кровавого договора
+Yuwipi — Ювипи
 
 — Uncommon Sets —
 Armor of Sir Davion — Броня сэра Девиона
