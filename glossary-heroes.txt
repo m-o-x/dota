@@ -336,7 +336,7 @@ Kunkka, the Admiral
 Tresdin, the Legion Commander
 — Тресдин, командир легиона
 	Overwhelming Odds = Перевес в силах
-	Press The Attack = Натиск
+	Press The Attack = Наступление
 	Movement of Courage = Отважный поступок
 	Duel = Дуэль
 

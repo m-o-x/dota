@@ -14,6 +14,7 @@ Armor of the Sanguine Moon — Броня багряной Луны
 Arms of Burning Turmoil — Доспехи пылающей смуты
 Artillery of the Crested Cannoneer — Вооружение почетного артиллериста
 Attributes of the Foretold — Знамения грядущего
+Chaos Legion — Легион хаоса
 Dark Ruin — Темные руины
 Dead Winter — Мертвая зима
 Death Charge — Смертельный разгон
@@ -30,6 +31,7 @@ Gifts from the Gloom — Дары мглы
 Glacier Duster — Ледниковый пыльник
 Golden Reel Guardian — Страж золотой катушки
 Inscrutable Zeal — Небывалое усердие
+Oblivion Headmaster — Повелитель Забвения
 Peculiar Prestidigitator — Небывалый пройдоха
 Resonant Vibrance — Звучные вибрации
 Sermon of the Frozen Apostle — Проповедь ледяного апостола
